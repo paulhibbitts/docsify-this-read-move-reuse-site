@@ -6,7 +6,7 @@ Free, open-source DIY tools for open textbooks, guides and courses
 
 Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](open-publishing-space/README.md) if you write or share open textbooks and guides, [Open Courses](open-course-hub/README.md) if you teach or design courses, or [Open Textbooks, Guides and Courses](guide/README.md) for both.
 
-<div class="card-list card-list-3">
+<div class="card-list card-list-guides">
 
 <div class="card">
 

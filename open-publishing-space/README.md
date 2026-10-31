@@ -13,7 +13,7 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 
 [Start Reading](open-publishing-space/why-it-matters.md ":class=button :class=primary")
 
-<div class="card-list card-list-3">
+<div class="card-list card-list-sections">
 
 <div class="card">
 
