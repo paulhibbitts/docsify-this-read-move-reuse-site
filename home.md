@@ -46,4 +46,4 @@ A DIY Path from Plain Markdown or Your LMS
 
 </div>
 
-Originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about.md)
+Originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
