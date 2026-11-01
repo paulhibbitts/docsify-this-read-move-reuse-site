@@ -1,6 +1,6 @@
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
 
-[← Guides](home.md)
+[← All Guides](home.md)
 
 # Open Textbooks, Guides and Courses
 
