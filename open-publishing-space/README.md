@@ -73,4 +73,4 @@ Paul Hibbitts · First Edition, 2026 · Updated Oct 30, 2026
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

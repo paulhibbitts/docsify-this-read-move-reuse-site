@@ -49,4 +49,4 @@ A DIY Path from Plain Markdown or Your LMS
 Originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

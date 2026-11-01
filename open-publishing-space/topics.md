@@ -79,4 +79,4 @@ Every topic in the guide, from A to Z.
 - [Trade-offs](open-publishing-space/getting-started.md)
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

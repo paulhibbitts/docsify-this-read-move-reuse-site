@@ -13,4 +13,4 @@ All three guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/b
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

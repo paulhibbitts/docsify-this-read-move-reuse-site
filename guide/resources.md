@@ -35,4 +35,4 @@ Links for going further with the projects in the guide, and with Markdown itself
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) and [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – premium counterparts, built on the Grav Premium Helios theme
 
 <!-- Hides the sidebar on this page -->
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
