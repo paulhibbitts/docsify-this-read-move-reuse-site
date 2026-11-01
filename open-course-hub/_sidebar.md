@@ -1,3 +1,5 @@
+**Open Courses**
+
 - [Why It Matters](open-course-hub/why-it-matters.md)
 - [Open Course Hub 2](open-course-hub/open-course-hub.md)
 - [Open MultiCourse Hub 2](open-course-hub/open-multicourse-hub.md)
