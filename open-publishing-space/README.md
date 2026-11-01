@@ -1,7 +1,5 @@
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
 
-[← All Guides](home.md)
-
 # Open Textbooks and Guides
 
 A DIY Path from Plain Markdown or Pressbooks

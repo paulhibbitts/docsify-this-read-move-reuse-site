@@ -1,7 +1,5 @@
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
 
-[← All Guides](home.md)
-
 # About This Site
 
 This site was originally prepared for the ETUG Fall Workshop 2026. It holds three short guides to free, open-source DIY tools for open textbooks, guides and courses:
