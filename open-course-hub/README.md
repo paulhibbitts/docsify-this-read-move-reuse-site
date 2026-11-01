@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 # Open Courses
 
 A DIY Path from Plain Markdown or Your LMS
@@ -83,3 +81,6 @@ Explore the demos and try the converter, with nothing to install – plus the li
 Paul Hibbitts · First Edition, 2026 · Updated Oct 30, 2026
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@cbarbalis">Chris Barbalis</a> on <a href="https://unsplash.com/photos/female-beach-cruiser-bike-leaning-on-yellow-painted-wall-Lpqg7ypu2B4">Unsplash</a>.
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>

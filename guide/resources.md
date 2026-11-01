@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 [← Open Textbooks, Guides and Courses](guide/README.md)
 
 # Resources
@@ -35,3 +33,6 @@ Links for going further with the projects in the guide, and with Markdown itself
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) and [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – premium counterparts, built on the Grav Premium Helios theme
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>

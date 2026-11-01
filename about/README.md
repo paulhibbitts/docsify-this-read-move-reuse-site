@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 # About This Site
 
 This site was originally prepared for the ETUG Fall Workshop 2026. It holds three short guides to free, open-source DIY tools for open textbooks, guides and courses:
@@ -13,3 +11,6 @@ This version is published with [Docsify-This](https://docsify-this.net), straigh
 All three guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>

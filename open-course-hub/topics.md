@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 [← Open Courses](open-course-hub/README.md)
 
 # Topics
@@ -71,3 +69,6 @@ Every topic in the guide, from A to Z.
 ## T
 
 - [Trade-offs](open-course-hub/getting-started.md)
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>

@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 # Open Textbooks, Guides and Courses
 
 A DIY Path from Plain Markdown, Pressbooks or Your LMS
@@ -83,3 +81,6 @@ Pick the starter for your book or course – plus the trade-offs to know first.
 Paul Hibbitts · First Edition, 2026 · Updated Oct 30, 2026
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@chris_robert">chris robert</a> on <a href="https://unsplash.com/photos/P189JexXzQY">Unsplash</a>.
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>

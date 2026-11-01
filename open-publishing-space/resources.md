@@ -1,5 +1,3 @@
-<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
-
 [← Open Textbooks and Guides](open-publishing-space/README.md)
 
 # Resources
@@ -34,3 +32,6 @@ Links for going further with Open Publishing Space, and with Markdown itself.
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart, built on the Grav Premium Helios theme
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
