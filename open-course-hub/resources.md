@@ -1,3 +1,5 @@
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+
 [← Open Courses](open-course-hub/README.md)
 
 # Resources

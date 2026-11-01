@@ -1,3 +1,5 @@
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; }</style>
+
 [← Open Textbooks and Guides](open-publishing-space/README.md)
 
 # Resources
