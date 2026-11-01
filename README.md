@@ -12,6 +12,6 @@ The original guides are built with Grav Open Publishing Space at https://read-mo
 - `guide/`, `open-publishing-space/`, `open-course-hub/` – one folder per guide: `README.md` (its home page), a page per part, `topics.md`, `resources.md`, `_sidebar.md` and `_navbar.md`
 - `about/` – about this site: `README.md` and its own `_navbar.md`
 
-The cards use the `card-list-guides` (Guides page) and `card-list-sections` (guide homes) card lists; where Docsify-This doesn't have them yet, the cards show two to a row.
+The cards use the `card-list-guides` (Guides page) and `card-list-sections` (guide homes) card lists, new in Docsify-This 2.2.
 
 Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – copy it, adapt it and share it, with credit.
