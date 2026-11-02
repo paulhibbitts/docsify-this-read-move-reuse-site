@@ -1,6 +1,24 @@
+<div class="guide-cover">
+
+![An open book floating against a blue sky, its pages fanned out](open-book-sky.jpg ":no-zoom")
+
+<div>
+
 # Open Textbooks and Guides
 
 A DIY Path from Plain Markdown or Pressbooks
+
+Paul Hibbitts
+
+<small>First Edition, 2026 · Updated Oct 30, 2026</small>
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
+
+[Start Reading](open-publishing-space/why-it-matters.md ":class=button :class=primary")
+
+</div>
+
+</div>
 
 Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform, which can make them more challenging to adapt or self-host elsewhere. This short guide introduces Open Publishing Space, a free, open-source website starter for sharing web-first open textbooks and guides alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
 
@@ -8,8 +26,6 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
-
-[Start Reading](open-publishing-space/why-it-matters.md ":class=button :class=primary")
 
 <div class="card-list card-list-sections">
 
@@ -67,8 +83,6 @@ Explore the demo and try the converter, with nothing to install – plus the lim
 
 > [!NOTE]
 > **Reuse this guide** – it's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.
-
-Paul Hibbitts · First Edition, 2026 · Updated Oct 30, 2026
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.
 

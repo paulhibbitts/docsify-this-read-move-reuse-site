@@ -1,6 +1,24 @@
+<div class="guide-cover">
+
+![A Little Free Library on wheels, with books behind its glass doors](chris-robert-P189JexXzQY-unsplash.jpg ":no-zoom")
+
+<div>
+
 # Open Textbooks, Guides and Courses
 
 A DIY Path from Plain Markdown, Pressbooks or Your LMS
+
+Paul Hibbitts
+
+<small>First Edition, 2026 · Updated Oct 30, 2026</small>
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
+
+[Start Reading](guide/why-it-matters.md ":class=button :class=primary")
+
+</div>
+
+</div>
 
 Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
@@ -8,8 +26,6 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
-
-[Start Reading](guide/why-it-matters.md ":class=button :class=primary")
 
 <div class="card-list card-list-sections">
 
@@ -77,8 +93,6 @@ Pick the starter for your book or course – plus the trade-offs to know first.
 
 > [!NOTE]
 > **Reuse this guide** – it's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.
-
-Paul Hibbitts · First Edition, 2026 · Updated Oct 30, 2026
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@chris_robert">chris robert</a> on <a href="https://unsplash.com/photos/P189JexXzQY">Unsplash</a>.
 

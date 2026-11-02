@@ -1,6 +1,24 @@
+<div class="guide-cover">
+
+![A bicycle with a front basket leaning against a yellow wall](bicycle-yellow-wall.jpg ":no-zoom")
+
+<div>
+
 # Open Courses
 
 A DIY Path from Plain Markdown or Your LMS
+
+Paul Hibbitts
+
+<small>First Edition, 2026 · Updated Oct 30, 2026</small>
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
+
+[Start Reading](open-course-hub/why-it-matters.md ":class=button :class=primary")
+
+</div>
+
+</div>
 
 Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere. This short guide introduces Open Course Hub, a free, open-source website starter for open courses organized by modules, and its sibling Open MultiCourse Hub for several courses – plus a free converter that brings in a course from your LMS.
 
@@ -8,8 +26,6 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
-
-[Start Reading](open-course-hub/why-it-matters.md ":class=button :class=primary")
 
 <div class="card-list card-list-sections">
 
@@ -77,8 +93,6 @@ Explore the demos and try the converter, with nothing to install – plus the li
 
 > [!NOTE]
 > **Reuse this guide** – it's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.
-
-Paul Hibbitts · First Edition, 2026 · Updated Oct 30, 2026
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@cbarbalis">Chris Barbalis</a> on <a href="https://unsplash.com/photos/female-beach-cruiser-bike-leaning-on-yellow-painted-wall-Lpqg7ypu2B4">Unsplash</a>.
 
