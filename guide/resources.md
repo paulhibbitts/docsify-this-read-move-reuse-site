@@ -8,7 +8,7 @@ Links for going further with the projects in the guide, and with Markdown itself
 
 - **Open Publishing Space 2** – demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
-- **The converters** – [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
+- **The converters** – [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) · [Docsify](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
 
 ## Writing in Markdown
 

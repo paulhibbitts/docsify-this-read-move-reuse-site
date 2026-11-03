@@ -9,6 +9,7 @@ Links for going further with Open Course Hub and Open MultiCourse Hub, and with 
 - **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
 - **Open MultiCourse Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - **Common Cartridge Converter** – [convert a course](https://common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
+- **Open Publishing Course Hub Converter** – [move a course to or from Docsify](https://open-publishing-course-hub-converter.hibbittsdesign.org/)
 
 ## Writing in Markdown
 
