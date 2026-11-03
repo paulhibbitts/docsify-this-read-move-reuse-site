@@ -1,4 +1,4 @@
-# Read, Move, Reuse
+# Guides
 
 Free, open-source DIY tools for open textbooks, guides and courses
 
