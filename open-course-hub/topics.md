@@ -4,6 +4,8 @@
 
 Every topic in the guide, from A to Z.
 
+[A](#a)|B|[C](#c)|[D](#d)|[E](#e)|[F](#f)|G|[H](#h)|I|J|[K](#k)|[L](#l)|[M](#m)|N|[O](#o)|[P](#p)|Q|R|[S](#s)|[T](#t)|U|V|W|X|Y|Z
+
 ## A
 
 - [Accessibility](open-course-hub/accessibility-and-privacy.md)
