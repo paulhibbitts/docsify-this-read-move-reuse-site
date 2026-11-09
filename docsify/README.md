@@ -23,7 +23,7 @@ Paul Hibbitts
 Many educators want to share their Markdown as web pages, but a web server, a CMS or a build step gets in the way. This short guide introduces two free, open-source ways to skip the web server and the build step – Docsify-This and the Docsify Starter Kits – with your Markdown files kept somewhere public, such as a free GitHub repository, plus a path to a full Grav site when a project needs more.
 
 > [!TIP]
-> **Built on Docsify:** a free, open-source tool (31.5k ★ on GitHub) that turns Markdown files into web pages right in the browser – no build step and no database, with your files hosted anywhere public, such as GitHub.
+> **Built on Docsify:** a free, open-source tool (over 30,000 stars on GitHub) that turns Markdown files into web pages right in the browser – no build step and no database, with your files hosted anywhere public, such as GitHub.
 
 <div class="card-list card-list-sections">
 

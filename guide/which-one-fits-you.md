@@ -13,11 +13,27 @@ All the starters and converters in this guide are **free and open-source**:
 
 Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdown files with any editor or via Git.
 
+
+**Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/guide/which-one-fits-you):
+
+1. **Add** `.md` to this page's address to see its Markdown
+2. **Press** ← and → to move through this guide, like slides
+3. **Add** `?embedded=true` to this page's address to see it as it would appear in your LMS
+4. **Sign in** to [this site's read-only Admin 2 demo](https://try.hibbittsdesign.org/read-move-reuse/admin) and open a page – such as this one – to see its Markdown
+
+
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/guide), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide).
+
 > [!IMPORTANT]
-> **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a [term]PHP[/term] web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and [term]Grav[/term] extras like definition and objectives boxes are [term name="Shortcode"]shortcodes[/term] that other tools would need converted.
+> **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
+
+**Share this guide:** [read-move-reuse.hibbittsdesign.org/guide](https://read-move-reuse.hibbittsdesign.org/guide) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
 
 [^1]: Many web hosts let you choose the PHP version in their control panel.
+
+> [!NOTE]
+> **Share this guide** – [read-move-reuse.hibbittsdesign.org/guide](https://read-move-reuse.hibbittsdesign.org/guide), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.

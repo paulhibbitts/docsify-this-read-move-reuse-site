@@ -6,8 +6,8 @@
 
 Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 
-- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a [term]Pressbooks[/term] export, and download an Open Publishing Space guide, ready to review and publish
-- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a [term]Common Cartridge[/term] file, and download its modules, ready for Open Course Hub
+- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
+- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a Common Cartridge file, and download its modules, ready for Open Course Hub
 
 Table: What carries over from a Pressbooks book
 
@@ -21,7 +21,7 @@ Table: What carries over from a Pressbooks book
 
 ![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide, with its heading, text and image carried over, and a sidebar with a search box and the book's modules and chapters](pressbooks-to-open-publishing-space.webp)
 
-*The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), [term]CC BY 4.0[/term]*
+*The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), CC BY 4.0*
 
 ![A converted module intro page on a phone, twice: at the top with the module title, authors and three icons, and scrolled down to a Learning Objectives box listing four outcomes, both with a Previous and Next bar at the bottom of the screen](pressbooks-to-open-publishing-space-phone.webp)
 

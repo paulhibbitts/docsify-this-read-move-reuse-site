@@ -11,8 +11,6 @@
 > - **Reusable:** get the Markdown behind any page, with no access to the source files needed
 > - **Your own:** keep your content, and your readers' data, on a site you control
 
-Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn [term]Markdown[/term] into websites for open educators and publishers.
-
 **Open for reuse:** open textbooks and guides are meant to be reused and remixed (the [5Rs](https://opencontent.org/definition/) of open content), but they often live inside a single platform – harder to adapt, move or self-host elsewhere. What if every page stayed portable?
 
 > [!NOTE]
@@ -22,6 +20,8 @@ Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design
 
 Best of all for reuse, anyone can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
 
+**See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions – more in [From Pressbooks](open-publishing-space/from-pressbooks.md).
+
 **One guide, many uses:** read it at your own pace, present the original version like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use anywhere.
 
-**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-publishing-space) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-publishing-space), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/open-publishing-space), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-publishing-space) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-publishing-space).
+**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.

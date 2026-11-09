@@ -2,7 +2,7 @@
 
 Free, open-source DIY tools for open textbooks, guides and courses
 
-Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](open-publishing-space/README.md) if you write or share open textbooks and guides, [Open Courses](open-course-hub/README.md) if you teach or design courses, or [Open Textbooks, Guides and Courses](guide/README.md) for both. No web server? Start with [Docsify for Open Education and Publishing](docsify/README.md). New to Grav 2? Start with [Grav 2 for Open Education and Publishing](grav-2/README.md).
+Five short guides from the same source – not sure which? Start with the overview, [Open Textbooks, Guides and Courses](guide/README.md).
 
 Each guide has its own search box, on its reading pages.
 
@@ -69,6 +69,14 @@ Markdown on the Web, with No Web Server Needed
 </div>
 
 </div>
+
+## Which guide is for you?
+
+- **[Open Textbooks, Guides and Courses](guide/README.md)** – start here if you're not sure: the overview, for books and courses
+- **[Open Textbooks and Guides](open-publishing-space/README.md)** – for you if you write or share open textbooks and guides
+- **[Open Courses](open-course-hub/README.md)** – for you if you teach or design courses
+- **[Grav 2 for Open Education and Publishing](grav-2/README.md)** – for you if you're choosing a platform
+- **[Docsify for Open Education and Publishing](docsify/README.md)** – for you if you'd rather not set up a web server
 
 Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
 

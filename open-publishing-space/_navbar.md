@@ -1,5 +1,6 @@
 - [Read, Move, Reuse](home.md ":class=site-title")
 - [All Guides](home.md)
+- [Glossary](open-publishing-space/glossary.md)
 - [Topics](open-publishing-space/topics.md)
 - [Resources](open-publishing-space/resources.md)
 - [About](about/README.md)

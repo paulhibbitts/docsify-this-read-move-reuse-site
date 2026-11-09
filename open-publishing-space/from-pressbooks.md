@@ -6,7 +6,7 @@
 
 Already have a book in Pressbooks? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
-- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a [term]Pressbooks[/term] export, and download an Open Publishing Space guide, ready to review and publish
+- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
 
 ![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide, with its heading, text and image carried over, and a sidebar with a search box and the book's modules and chapters](pressbooks-to-open-publishing-space.webp)
 

@@ -12,12 +12,14 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/) – free, with your Markdown files on GitHub or another public address; start from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) template, and the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) can turn it into a Grav site later
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 
-**Try it in 10 minutes:**
 
-1. **Add** `.md` to any page's address – like [this page as Markdown](https://read-move-reuse.hibbittsdesign.org/grav-2/getting-started.md)
+**Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/grav-2/getting-started):
+
+1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through the original version of this guide, like slides
 3. **Sign in** to [the original site's read-only Admin 2 demo](https://try.hibbittsdesign.org/read-move-reuse/admin) and open a page – such as this one – to see its Markdown
 4. **Compare** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/) with [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions
+
 
 Then set up your own site:
 
@@ -38,4 +40,9 @@ Then set up your own site:
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
+**Share this guide:** [read-move-reuse.hibbittsdesign.org/grav-2](https://read-move-reuse.hibbittsdesign.org/grav-2) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
+
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
+
+> [!NOTE]
+> **Share this guide** – [read-move-reuse.hibbittsdesign.org/grav-2](https://read-move-reuse.hibbittsdesign.org/grav-2), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.

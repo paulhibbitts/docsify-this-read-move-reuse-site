@@ -36,8 +36,5 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 
 Both are built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development.
 
-> [!NOTE]
-> This page and Topics belong to this guide without being part of its reading order – so one site can hold several guides, each with pages like these.
-
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
