@@ -32,7 +32,7 @@ Links for going further with Open Course Hub and Open MultiCourse Hub, and with 
 
 ## Other Options
 
-- [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
+- [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no web server to set up
 - [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart, built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development
 
 <!-- Hides the sidebar on this page -->

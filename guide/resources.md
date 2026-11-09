@@ -37,7 +37,7 @@ Links for going further with the projects in the guide, and with Markdown itself
 
 ## Other Options
 
-- [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
+- [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no web server to set up
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart to Open Publishing Space, for open textbooks and guides
 - [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Hub, for open courses
 

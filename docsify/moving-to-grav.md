@@ -21,6 +21,6 @@ flowchart LR
 
 **A way back:** moving to Grav doesn't lock you in – the converter moves your guides or course back to Docsify whenever you want.
 
-For the Grav side, see [Open Textbooks, Guides and Courses](guide/README.md) or [Grav 2 for Open Education and Publishing](https://read-move-reuse.hibbittsdesign.org/grav-2).
+For the Grav side, see [Open Textbooks, Guides and Courses](guide/README.md) or [Grav 2 for Open Education and Publishing](grav-2/README.md).
 
 Example: [a course on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363), converted from the Open Course Hub demo

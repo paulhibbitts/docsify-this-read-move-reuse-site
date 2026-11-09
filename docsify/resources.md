@@ -28,7 +28,7 @@ Links for going further with Docsify, the tools built on it, and Markdown itself
 
 ## Other Options
 
-- [Grav 2 for Open Education and Publishing](https://read-move-reuse.hibbittsdesign.org/grav-2) – when you want a full website with browser editing
+- [Grav 2 for Open Education and Publishing](grav-2/README.md) – when you want a full website with browser editing
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

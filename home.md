@@ -2,7 +2,7 @@
 
 Free, open-source DIY tools for open textbooks, guides and courses
 
-Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](open-publishing-space/README.md) if you write or share open textbooks and guides, [Open Courses](open-course-hub/README.md) if you teach or design courses, or [Open Textbooks, Guides and Courses](guide/README.md) for both. No web server? Start with [Docsify for Open Education and Publishing](docsify/README.md). New to Grav 2? Start with [Grav 2 for Open Education and Publishing](https://read-move-reuse.hibbittsdesign.org/grav-2).
+Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](open-publishing-space/README.md) if you write or share open textbooks and guides, [Open Courses](open-course-hub/README.md) if you teach or design courses, or [Open Textbooks, Guides and Courses](guide/README.md) for both. No web server? Start with [Docsify for Open Education and Publishing](docsify/README.md). New to Grav 2? Start with [Grav 2 for Open Education and Publishing](grav-2/README.md).
 
 Each guide has its own search box, on its reading pages.
 
@@ -41,6 +41,18 @@ A DIY Path from Plain Markdown or Pressbooks
 A DIY Path from Plain Markdown or Your LMS
 
 <small>Paul Hibbitts<br>First Edition, 2026 · Updated Oct 30, 2026</small>
+
+</div>
+
+<div class="card">
+
+[![A potted plant on a windowsill between open green shutters, in a bright purple wall](grav-2/plant-purple-window.jpg ":no-zoom")](grav-2/README.md)
+
+<h2><a href="#/grav-2/README">Grav 2 for Open Education and Publishing</a></h2>
+
+A DIY Platform You Own, in Plain Markdown
+
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 4, 2026</small>
 
 </div>
 
