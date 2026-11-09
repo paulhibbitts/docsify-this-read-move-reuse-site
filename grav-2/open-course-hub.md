@@ -24,7 +24,7 @@ Already have a course in your LMS? Start from it, with a free converter (in beta
 
 Example (a raw conversion, with no revisions or fine-tuning): [an LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
 
-See the demo: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [a module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true&target=_blank) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
+See the demo: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [a module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
 
 Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#admin2-site-readme-plugin).
 

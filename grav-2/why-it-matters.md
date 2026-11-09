@@ -24,4 +24,4 @@ Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design
 
 **One guide, many uses:** read it at your own pace, present the original version like slides (← and → move between pages), embed it in an LMS, print it, or get its Markdown, page by page or as [one file for the whole guide](https://read-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt) – all from the same pages. Write once, use anywhere.
 
-See this page: [as Markdown](https://read-move-reuse.hibbittsdesign.org/grav-2/why-it-matters.md) · [embedded, as in an LMS](https://read-move-reuse.hibbittsdesign.org/grav-2/why-it-matters?embedded=true&target=_blank)
+See this page: [as Markdown](https://read-move-reuse.hibbittsdesign.org/grav-2/why-it-matters.md) · [embedded, as in an LMS](https://read-move-reuse.hibbittsdesign.org/grav-2/why-it-matters?embedded=true)
