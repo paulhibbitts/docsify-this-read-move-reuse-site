@@ -20,7 +20,7 @@ Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design
 >
 > A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page in Markdown, on a free site you control.
 
-Best of all for reuse, anyone can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
+Best of all for reuse, anyone can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
 
 Your LMS still has its place – for grades, quizzes and enrolment. An open course site works alongside it, and its pages embed right inside it.
 

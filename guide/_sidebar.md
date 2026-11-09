@@ -4,5 +4,6 @@
 - [Open Publishing Space 2](guide/open-publishing-space.md)
 - [Open Course Hub 2](guide/open-course-hub.md)
 - [From Pressbooks or Your LMS](guide/from-pressbooks-or-your-lms.md)
-- [Accessibility](guide/accessibility.md)
+- [Accessibility and Privacy](guide/accessibility.md)
 - [Which One Fits You?](guide/which-one-fits-you.md)
+- [Glossary](guide/glossary.md)

@@ -2,11 +2,11 @@
 
 # Open Publishing Space 2
 
-<small>Part 2 of 6</small>
+<small>Part 2 of 7</small>
 
 A free, open-source website starter for **open textbooks and guides**, with a blog alongside.
 
-- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (come back to this guide's home page to continue where you left off, even partway down a page)
+- Guides with section cards, reading progress, Learning Objectives, [term]OER[/term] attribution, search and **Keep My Place** (come back to this guide's home page to continue where you left off, even partway down a page)
 - One site can hold several guides, each with a card on a Guides page and its own pages in the menu (like this guide's Topics and Resources) – plus site pages like [About](about/README.md)
 - Diagrams and math written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin) plugins – like $E = mc^2$, or this diagram:
 

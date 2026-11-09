@@ -10,7 +10,7 @@ A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Oct 30, 2026</small>
+<small>First Edition, 2026 · Updated Nov 8, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
@@ -73,7 +73,7 @@ Free converters turn an existing book or course into Markdown pages for either s
 
 <small>Part 5</small>
 
-<h2><a href="#/guide/accessibility">Accessibility</a></h2>
+<h2><a href="#/guide/accessibility">Accessibility and Privacy</a></h2>
 
 Keyboard, screen reader and reading comfort features, built in.
 
@@ -86,6 +86,16 @@ Keyboard, screen reader and reading comfort features, built in.
 <h2><a href="#/guide/which-one-fits-you">Which One Fits You?</a></h2>
 
 Pick the starter for your book or course – plus the trade-offs to know first.
+
+</div>
+
+<div class="card">
+
+<small>Part 7</small>
+
+<h2><a href="#/guide/glossary">Glossary</a></h2>
+
+Terms used in this guide, from CC BY 4.0 to shortcodes.
 
 </div>
 

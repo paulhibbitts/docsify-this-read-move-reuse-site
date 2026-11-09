@@ -2,7 +2,7 @@
 
 Free, open-source DIY tools for open textbooks, guides and courses
 
-Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](open-publishing-space/README.md) if you write or share open textbooks and guides, [Open Courses](open-course-hub/README.md) if you teach or design courses, or [Open Textbooks, Guides and Courses](guide/README.md) for both.
+Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](open-publishing-space/README.md) if you write or share open textbooks and guides, [Open Courses](open-course-hub/README.md) if you teach or design courses, or [Open Textbooks, Guides and Courses](guide/README.md) for both. No web server? Start with [Docsify for Open Education and Publishing](docsify/README.md). New to Grav 2? Start with [Grav 2 for Open Education and Publishing](https://read-move-reuse.hibbittsdesign.org/grav-2).
 
 Each guide has its own search box, on its reading pages.
 
@@ -16,7 +16,7 @@ Each guide has its own search box, on its reading pages.
 
 A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Oct 30, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 8, 2026</small>
 
 </div>
 
@@ -44,9 +44,21 @@ A DIY Path from Plain Markdown or Your LMS
 
 </div>
 
+<div class="card">
+
+[![A vintage typewriter, seen from above, on a textured green surface](docsify/typewriter-green-wide.jpg ":no-zoom")](docsify/README.md)
+
+<h2><a href="#/docsify/README">Docsify for Open Education and Publishing</a></h2>
+
+Markdown on the Web, with No Web Server Needed
+
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 9, 2026</small>
+
 </div>
 
-Originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
+</div>
+
+Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

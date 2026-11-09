@@ -29,10 +29,19 @@ Links for going further with the projects in the guide, and with Markdown itself
 - [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) – all four free starters, side by side
 - [Leap into Open Publishing](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=leap-into-open-publishing-standalone-guide.md&edit-link=https://github.com/paulhibbitts/published-markdown-files/blob/main/leap-into-open-publishing-standalone-guide.md&edit-link-text=View%20Source%20Markdown%20File&edit-link-emoji=:page_facing_up:&browser-tab-title=Leap%20into%20Open%20Publishing%20Guide&sidebar=true&searchbox=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto#/?id=-additional-resources) – a short guide to open publishing, with more resources
 
+## Background Reading
+
+- [Defining the "Open" in Open Content and Open Educational Resources](https://opencontent.org/definition/) – the 5Rs: retain, reuse, revise, remix and redistribute (David Wiley, 2016)
+- [Markdown](https://daringfireball.net/projects/markdown/) – the original description of Markdown (John Gruber, 2004)
+- [Recommendation on Open Educational Resources (OER)](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) – five areas of action, from inclusive access to sustainable OER (UNESCO, 2019)
+
 ## Other Options
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
-- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) and [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – premium counterparts, built on the Grav Premium Helios theme
+- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart to Open Publishing Space, for open textbooks and guides
+- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Hub, for open courses
+
+Both are built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

@@ -2,16 +2,26 @@
 
 # From Pressbooks or Your LMS
 
-<small>Part 4 of 6</small>
+<small>Part 4 of 7</small>
 
-Start from what you already have, with two free converters (both in beta) – no Grav installation needed to see what carries over:
+Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 
-- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
-- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Hub
+- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a [term]Pressbooks[/term] export, and download an Open Publishing Space guide, ready to review and publish
+- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a [term]Common Cartridge[/term] file, and download its modules, ready for Open Course Hub
+
+Table: What carries over from a Pressbooks book
+
+| Content | In the converted guide |
+|---|---|
+| Text, headings, figures and captions | Carried over |
+| Exercises and other callouts | Carried over as callout boxes |
+| Footnotes | Carried over |
+| H5P activities and videos | Links back to the book, ready to embed |
+| Tables inserted with a Pressbooks shortcode | Shown as text, to replace with a Markdown table |
 
 ![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide, with its heading, text and image carried over, and a sidebar with a search box and the book's modules and chapters](pressbooks-to-open-publishing-space.webp)
 
-*The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), CC BY 4.0*
+*The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), [term]CC BY 4.0[/term]*
 
 ![A converted module intro page on a phone, twice: at the top with the module title, authors and three icons, and scrolled down to a Learning Objectives box listing four outcomes, both with a Previous and Next bar at the bottom of the screen](pressbooks-to-open-publishing-space-phone.webp)
 
@@ -19,7 +29,7 @@ Start from what you already have, with two free converters (both in beta) – no
 
 Examples (raw conversions, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) · [an LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
 
-Already in Docsify? The [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) moves guides and courses between Docsify and either site, in either direction – see [a course on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363).
+[^1]: Beta means they handle many books and courses well, but a converted guide or course may need some tidying – tables inserted with a Pressbooks shortcode, for example, need replacing with Markdown tables.
 
 > [!NOTE]
 > **Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions.
