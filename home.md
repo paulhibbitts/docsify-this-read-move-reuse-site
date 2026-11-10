@@ -4,6 +4,8 @@ Free, open-source DIY tools for open textbooks, guides and courses
 
 Five short guides from the same source – not sure which? Start with the overview, [Open Textbooks, Guides and Courses](guide/README.md).
 
+**Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · your Markdown is always yours to reuse – and anyone's, with an open licence.
+
 Each guide has its own search box, on its reading pages.
 
 <div class="card-list card-list-guides">
@@ -73,7 +75,7 @@ Markdown on the Web, with No Web Server Needed
 ## Which guide is for you?
 
 - **[Open Textbooks, Guides and Courses](guide/README.md)** – start here if you're not sure: the overview, for books and courses
-- **[Open Textbooks and Guides](open-publishing-space/README.md)** – for you if you write or share open textbooks and guides
+- **[Open Textbooks and Guides](open-publishing-space/README.md)** – for you if you write or share textbooks and guides
 - **[Open Courses](open-course-hub/README.md)** – for you if you teach or design courses
 - **[Grav 2 for Open Education and Publishing](grav-2/README.md)** – for you if you're choosing a platform
 - **[Docsify for Open Education and Publishing](docsify/README.md)** – for you if you'd rather not set up a web server
