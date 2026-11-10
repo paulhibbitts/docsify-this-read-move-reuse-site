@@ -27,6 +27,8 @@ Then set up your own site:
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
 
+**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
+
 > [!IMPORTANT]
 > **Good to know:**
 >

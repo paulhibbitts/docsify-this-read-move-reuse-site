@@ -21,6 +21,14 @@ All the starters and converters in this guide are **free and open-source**, and 
 4. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) and open a module page to see its Markdown
 
 
+Then set up your own site:
+
+1. **Download** a starter from [getgrav.org](https://getgrav.org/downloads/skeletons)
+2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
+3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
+
+**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
+
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-course-hub) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/open-course-hub), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub).
 
 > [!IMPORTANT]

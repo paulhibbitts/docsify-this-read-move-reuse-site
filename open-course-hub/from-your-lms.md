@@ -22,4 +22,8 @@ Table: What carries over from an LMS course
 | Quizzes and discussions | Left out – they stay in your LMS, and the conversion report lists them |
 | LTI tools | A note on the module page, pointing to the original course |
 
+![A module from an LMS course after conversion to Open Course Hub: the module's introduction, a card for each of its three assignments, and a sidebar with a search box and the course's modules](open-course-hub-converted-module.webp)
+
+*A module from an LMS course in Open Course Hub, converted with no revisions – from Digital Animation (D. Ingram), CC BY-NC*
+
 Example (a raw conversion, with no revisions or fine-tuning): [LMS course content in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
