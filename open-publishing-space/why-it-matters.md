@@ -20,7 +20,7 @@
 
 **Not ready to openly license your work?** Plain Markdown still keeps it yours – it outlasts any one platform, and moves, backs up and adapts easily for years to come.
 
-Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
+Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub.
 
 **See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions – more in [From Pressbooks](open-publishing-space/from-pressbooks.md).
 
