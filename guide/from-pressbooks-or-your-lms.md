@@ -27,7 +27,7 @@ Table: What carries over from a Pressbooks book
 
 *A module's intro page on a phone: its text and images, then its Learning Outcomes as a Learning Objectives box*
 
-Examples (raw conversions, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) · [an LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
+Examples (raw conversions, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) · [LMS course content in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
 
 [^1]: Beta means they handle many books and courses well, but a converted guide or course may need some tidying – tables inserted with a Pressbooks shortcode, for example, need replacing with Markdown tables.
 

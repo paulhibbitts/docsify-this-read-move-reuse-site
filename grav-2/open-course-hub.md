@@ -22,7 +22,7 @@ Already have a course in your LMS? Start from it, with a free converter (in beta
 
 - **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Hub
 
-Example (a raw conversion, with no revisions or fine-tuning): [an LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
+Example (a raw conversion, with no revisions or fine-tuning): [LMS course content in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
 
 See the demo: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [a module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
 
