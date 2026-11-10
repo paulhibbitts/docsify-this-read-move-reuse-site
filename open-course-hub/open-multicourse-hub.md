@@ -15,6 +15,3 @@ Teaching several courses? **Open MultiCourse Hub 2** gives each one its own cour
 *The Courses page, from the Open MultiCourse Hub demo*
 
 [See the demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
-
-> [!NOTE]
-> Want to jump right in? Download [Open MultiCourse Hub](https://getgrav.org/downloads/skeletons#multicourse-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/).

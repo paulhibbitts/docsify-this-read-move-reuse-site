@@ -15,7 +15,4 @@ Built in, for different kinds of readers:
 
 *Open Course Hub in dark mode*
 
-Accessibility also depends on the content itself – headings, alt text and link text are up to the author.
-
-> [!NOTE]
-> Accessibility also depends on the content – see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/).
+Accessibility also depends on the content itself – headings, alt text and link text are up to the author (see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)).

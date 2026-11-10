@@ -26,9 +26,6 @@ Example (a raw conversion, with no revisions or fine-tuning): [LMS course conten
 
 See the demo: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [a module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#admin2-site-readme-plugin).
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen).
 
 For more, see the [Open Courses](open-course-hub/README.md) guide.
-
-> [!NOTE]
-> Want to jump right in? Download [Open Course Hub](https://getgrav.org/downloads/skeletons#course-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/).

@@ -25,7 +25,4 @@ flowchart LR
 
 See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#admin2-site-readme-plugin).
-
-> [!NOTE]
-> Want to jump right in? Download [Open Publishing Space](https://getgrav.org/downloads/skeletons#open-publishing-space-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/).
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen).
