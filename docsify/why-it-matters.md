@@ -11,7 +11,7 @@
 > - Choose between Docsify-This and a Docsify Starter Kit
 > - Know when a full Grav site is worth the move
 
-**The barrier:** sharing a few pages of open content shouldn't need a web server, a content management system or a build process – yet that's often what stands between an educator and the web.
+**The barrier:** sharing a few pages online shouldn't need a web server, a content management system or a build process – yet that's often what stands between an educator and the web.
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**

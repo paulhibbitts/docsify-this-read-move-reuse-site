@@ -33,7 +33,7 @@ Many educators want to share their Markdown as web pages, but a web server, a CM
 
 <h2><a href="#/docsify/why-it-matters">Why It Matters</a></h2>
 
-Open content on the web, with no web server to set up or look after.
+Your Markdown on the web, with no web server to set up or look after.
 
 </div>
 
