@@ -12,7 +12,7 @@ This version is published with [Docsify-This](https://docsify-this.net), straigh
 
 **Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
-**Built to last:** the starters, themes and converters are free, open source and actively maintained by me – and because your content is plain Markdown, it keeps working with any tool, whatever the future holds.
+**Your content lasts:** the starters, themes and converters are free and open source – and because your content is plain Markdown, it keeps working with other tools too.
 
 All five guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
