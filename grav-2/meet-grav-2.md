@@ -21,7 +21,7 @@ This diagram is written as plain text, with the free [Mermaid](https://hibbittsd
 What's new in Grav 2:
 
 - **Admin 2** – a modern editing panel, rebuilt from scratch, for writing and organizing pages in the browser
-- **A Markdown version of every page** – add `.md` to a page's address to get its Markdown ([Grav 2.1 release notes](https://getgrav.org/blog/grav-2-1-released))
+- **A Markdown version of every page** – add `.md` to a page's address to get its Markdown ([Grav 2.1 release notes](https://getgrav.org/blog/grav-2-1-released)), or turn it off in Grav's settings
 - **Actively maintained** – every finding from a [security scan in October 2026](https://getgrav.org/blog/oss-scanner-security-releases) was fixed and released
 - **Faster under the hood, and still just files** – [twice as fast in Grav 2.2](https://getgrav.org/blog/grav-2-2-released), by the Grav team's measurements, and a site that's simple to back up, copy and move
 
