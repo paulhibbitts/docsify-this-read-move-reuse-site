@@ -1,6 +1,6 @@
 <div class="guide-cover">
 
-![A vintage typewriter, seen from above, on a textured green surface](typewriter-green-wide.jpg ":no-zoom")
+![A light green vintage typewriter with a blank sheet of paper, on a cream background](typewriter-light-green-wide.jpg ":no-zoom")
 
 <div>
 
@@ -79,7 +79,7 @@ Pick a starting point – plus the trade-offs to know first.
 
 </div>
 
-This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://www.pexels.com/@helloaesthe/">hello aesthe</a> on <a href="https://www.pexels.com/photo/a-vintage-typewrite-or-green-surface-9060930/">Pexels</a>.
+This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@du_sable_et_du_vent">Baptiste Riethmann</a> on <a href="https://unsplash.com/photos/vintage-green-typewriter-with-blank-paper-jOQj5RQVmvg">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

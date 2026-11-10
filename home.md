@@ -58,7 +58,7 @@ A DIY Platform You Own, in Plain Markdown
 
 <div class="card">
 
-[![A vintage typewriter, seen from above, on a textured green surface](docsify/typewriter-green-wide.jpg ":no-zoom")](docsify/README.md)
+[![A light green vintage typewriter with a blank sheet of paper, on a cream background](docsify/typewriter-light-green-wide.jpg ":no-zoom")](docsify/README.md)
 
 <h2><a href="#/docsify/README">Docsify for Open Education and Publishing</a></h2>
 
