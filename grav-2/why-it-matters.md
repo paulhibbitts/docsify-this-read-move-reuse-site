@@ -18,6 +18,8 @@
 >
 > A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page on a free site you control.
 
+**Not ready to openly license your work?** Plain Markdown still keeps it yours – it outlasts any one platform, and moves, backs up and adapts easily for years to come.
+
 **A site you own:** Grav 2 keeps every page as a Markdown file in a folder, on a web host you choose. Copy the folder, and you have the whole site.
 
 **One guide, many uses:** read it at your own pace, present the original version like slides (← and → move between pages), embed it in an LMS, print it, or get its Markdown, page by page or as [one file for the whole guide](https://read-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt) – all from the same pages. Write once, use anywhere.

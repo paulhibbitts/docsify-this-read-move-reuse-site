@@ -6,11 +6,11 @@
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
 
-- **"I want an open home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
+- **"I want a web home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
 - **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) when you're ready for a full site – see [a course on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
-- **"I want to share an open textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
+- **"I want to share a textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
 
 
 **Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-course-hub/getting-started):

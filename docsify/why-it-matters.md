@@ -18,13 +18,15 @@
 >
 > A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs.
 
+**Not ready to openly license your work?** Plain Markdown still keeps it yours – files in your own repository, ready to move to any tool later.
+
 **How Docsify helps:** your pages stay as Markdown files, hosted anywhere public such as GitHub or Codeberg. Docsify turns them into web pages in the reader's browser – there's no web server to set up, nothing to compile and no software to keep updated. The files still need a home, but a free GitHub repository is enough.
 
 **Read, Move, Reuse:**
 
 - **Read:** pages work on any device and embed in an LMS
 - **Move:** the same files go to a full Grav site, and back again, with a free converter
-- **Reuse:** the Markdown files are the source – anyone can copy, adapt and share them under their open licence
+- **Reuse:** the Markdown files are the source – yours to move and adapt, and anyone's to reuse if you add an open licence
 
 **Honestly:** this is the lightest way to publish, not the most capable – there's no admin panel and no built-in editor. Part 4 covers when a full Grav site is worth it.
 
