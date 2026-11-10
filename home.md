@@ -80,9 +80,9 @@ Markdown on the Web, with No Web Server Needed
 - **[Grav 2 for Open Education and Publishing](grav-2/README.md)** – for you if you're choosing a platform
 - **[Docsify for Open Education and Publishing](docsify/README.md)** – for you if you'd rather not set up a web server
 
-## Same guides, six sites
+## A working example
 
-From the same Markdown: [Open Publishing Space – Quark 2](https://read-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ops-quark/) · [MultiCourse Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-mch/) · [Helios Open Reader](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hch/) · **Docsify-This** (this site)
+These guides show Markdown portability at work: the same files also run with each of my other open-source tools – [Open Publishing Space – Quark 2](https://read-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ops-quark/) · [MultiCourse Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-mch/) · [Helios Open Reader](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hch/)
 
 Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
 
