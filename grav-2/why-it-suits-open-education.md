@@ -28,7 +28,7 @@ flowchart LR
   D([fa:fa-users Co-authors]) --> C
 ```
 
-**See an example:** the original site's pages are in a [public GitHub repository](https://github.com/paulhibbitts/read-move-reuse/tree/main/pages), just as Git Sync would keep them – see [this page's own file](https://github.com/paulhibbitts/read-move-reuse/blob/main/pages/05.grav-2/03.why-it-suits-open-education/section.md), or [every edit to it](https://github.com/paulhibbitts/read-move-reuse/commits/main/pages/05.grav-2/03.why-it-suits-open-education/section.md).
+**See an example:** the original site's pages are in a [public GitHub repository](https://github.com/paulhibbitts/read-move-reuse/tree/main/quark2/pages), just as Git Sync would keep them – see [this page's own file](https://github.com/paulhibbitts/read-move-reuse/blob/main/quark2/pages/05.grav-2/03.why-it-suits-open-education/section.md), or [every edit to it](https://github.com/paulhibbitts/read-move-reuse/commits/main/quark2/pages/05.grav-2/03.why-it-suits-open-education/section.md).
 
 **For whoever runs the site:**
 

@@ -10,7 +10,7 @@ A DIY Platform You Own, in Plain Markdown
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 4, 2026</small>
+<small>First Edition, 2026 · Updated Nov 10, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 

@@ -23,6 +23,3 @@ Everything in this guide is **free and open-source**:
 **Share this guide:** [read-move-reuse.hibbittsdesign.org/docsify](https://read-move-reuse.hibbittsdesign.org/docsify) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
-
-> [!NOTE]
-> **Share this guide** – [read-move-reuse.hibbittsdesign.org/docsify](https://read-move-reuse.hibbittsdesign.org/docsify), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.
