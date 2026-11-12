@@ -2,12 +2,12 @@
 
 # Resources
 
-Links for going further with Open Course Hub and Open MultiCourse Hub, and with Markdown itself.
+Links for going further with Open Course Space, and with Markdown itself.
 
 ## The Projects
 
-- **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
-- **Open MultiCourse Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
+- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space)
+- **Open Course Hub 2 and Open MultiCourse Hub 2** – the earlier course starters, also for Grav 1.7: [Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) · [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - **Common Cartridge Converter** – [convert a course](https://common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
 - **Open Publishing Course Hub Converter** – [move a course to or from Docsify](https://open-publishing-course-hub-converter.hibbittsdesign.org/)
 
@@ -26,8 +26,8 @@ Links for going further with Open Course Hub and Open MultiCourse Hub, and with 
 
 ## Learning More
 
-- [Grav Learn](https://learn.getgrav.org/) – the documentation for Grav, the free CMS both course starters are built on
-- [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) – all four free starters, side by side
+- [Grav Learn](https://learn.getgrav.org/) – the documentation for Grav, the free CMS Open Course Space is built on
+- [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) – the free starters, side by side
 - [Leap into Open Publishing](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=leap-into-open-publishing-standalone-guide.md&edit-link=https://github.com/paulhibbitts/published-markdown-files/blob/main/leap-into-open-publishing-standalone-guide.md&edit-link-text=View%20Source%20Markdown%20File&edit-link-emoji=:page_facing_up:&browser-tab-title=Leap%20into%20Open%20Publishing%20Guide&sidebar=true&searchbox=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto#/?id=-additional-resources) – a short guide to open publishing, with more resources
 
 ## Other Options

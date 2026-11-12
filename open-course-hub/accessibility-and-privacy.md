@@ -11,8 +11,8 @@ Built in, for different kinds of learners:
 - **For everyone:** comfortable line lengths, a module list you can hide to focus on the page, light and dark modes, and clean printed pages
 - **For privacy:** content stays on a site you control, with no third-party tracking built in (embeds such as YouTube videos bring their own); Grav's own page view counts stay on the site, and Keep My Place remembers a learner's place in their own browser only
 
-![An Open Course Hub home page in dark mode](open-course-hub-dark-mode.webp)
+![An Open Course Space course home page in dark mode](open-course-space-dark-mode.webp)
 
-*Open Course Hub in dark mode*
+*Open Course Space in dark mode*
 
 Accessibility also depends on the content itself – headings, alt text and link text are up to the author (see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)).

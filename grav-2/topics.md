@@ -62,8 +62,7 @@ Every topic in the guide, from A to Z.
 
 ## O
 
-- [Open Course Hub 2](grav-2/open-course-hub.md)
-- [Open MultiCourse Hub 2](grav-2/open-course-hub.md)
+- [Open Course Space](grav-2/open-course-hub.md)
 - [Open Publishing Course Hub Converter](grav-2/open-publishing-space.md)
 - [Open Publishing Space 2](grav-2/open-publishing-space.md)
 

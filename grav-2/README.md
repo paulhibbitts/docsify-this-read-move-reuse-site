@@ -10,7 +10,7 @@ A DIY Platform You Own, in Plain Markdown
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 10, 2026</small>
+<small>First Edition, 2026 · Updated Nov 12, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
@@ -70,9 +70,9 @@ A free starter for open textbooks and guides – plus converters to bring in wha
 
 <small>Part 5</small>
 
-<h2><a href="#/grav-2/open-course-hub">Open Course Hub 2</a></h2>
+<h2><a href="#/grav-2/open-course-hub">Open Course Space</a></h2>
 
-Open Publishing Space's twin, for open courses – plus converters to bring in an LMS course.
+Open Publishing Space's twin, for open courses – plus a converter to bring in an LMS course.
 
 </div>
 

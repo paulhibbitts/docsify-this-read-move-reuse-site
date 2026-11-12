@@ -10,7 +10,7 @@ A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 10, 2026</small>
+<small>First Edition, 2026 · Updated Nov 12, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
@@ -53,9 +53,9 @@ Open textbooks and guides as websites, with the Markdown behind every page a cli
 
 <small>Part 3</small>
 
-<h2><a href="#/guide/open-course-hub">Open Course Hub 2</a></h2>
+<h2><a href="#/guide/open-course-hub">Open Course Space</a></h2>
 
-An open course site organized by modules, ready to embed in your LMS.
+An open course site organized by modules – one course or many – ready to embed in your LMS.
 
 </div>
 

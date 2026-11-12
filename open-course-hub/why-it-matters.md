@@ -22,7 +22,7 @@
 
 Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub.
 
-**See an example:** [an openly licensed LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/), converted with no revisions – more in [From Your LMS](open-course-hub/from-your-lms.md).
+**See an example:** [an openly licensed LMS course on a course site](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/), converted with no revisions – more in [From Your LMS](open-course-hub/from-your-lms.md).
 
 Your LMS still has its place – for grades, quizzes and enrolment. An open course site works alongside it, and its pages embed right inside it.
 

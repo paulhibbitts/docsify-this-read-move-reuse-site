@@ -1,17 +1,13 @@
 [← Open Courses](open-course-hub/README.md)
 
-# Open MultiCourse Hub 2
+# Open Course Hub and MultiCourse Hub
 
 <small>Part 3 of 6</small>
 
-Teaching several courses? **Open MultiCourse Hub 2** gives each one its own course site – with its own modules, home page and optional blog – all in a single install.
+Before Open Course Space, there were two course starters: **Open Course Hub 2** for one course, and **Open MultiCourse Hub 2** for several. Both are still available, for Grav 1.7 as well as Grav 2, and will soon be in maintenance mode – fixes, but no new features.
 
-- The same module pages, reminders and embedding as Open Course Hub
-- One site to host, update and back up, however many courses you teach
-- Each course keeps its own address, ready to link from or embed in your LMS
+- **Already using one?** MultiCourse Hub courses move to Open Course Space with no content changes, and an Open Course Hub course moves into its own folder – see [Moving Existing Courses](https://github.com/hibbitts-design/grav-skeleton-open-course-space#moving-existing-courses)
+- **Staying on Grav 1.7?** Open Course Space needs Grav 2.1 or newer, so these two remain the free course starters for Grav 1.7
+- **Starting from Docsify?** The [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) moves a course between Docsify and Open Course Hub
 
-![The Open MultiCourse Hub demo's home page, with a card for each of its three example courses – basic, intermediate and advanced – each with a header image and short description](open-multicourse-hub-courses.webp)
-
-*The Courses page, from the Open MultiCourse Hub demo*
-
-[See the demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
+See the demos: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)

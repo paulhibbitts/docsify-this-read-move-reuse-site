@@ -9,7 +9,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I want to share a textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
 - **"I already have a Pressbooks book"** → the [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) when you're ready for a full site – see [these guides on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
-- **"I teach a course"** → its twin, Open Course Hub 2 – see the [Open Courses](open-course-hub/README.md) guide
+- **"I teach a course"** → its twin, Open Course Space – see the [Open Courses](open-course-hub/README.md) guide
 
 
 **Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-publishing-space/getting-started):
@@ -28,7 +28,7 @@ Then set up your own site:
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
-**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-publishing-space) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-publishing-space), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/open-publishing-space), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-publishing-space) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-publishing-space).
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-publishing-space) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-publishing-space), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-publishing-space), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-publishing-space) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-publishing-space).
 
 > [!IMPORTANT]
 > **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.

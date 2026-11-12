@@ -15,8 +15,8 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 ## The Projects
 
 - **Open Publishing Space 2** – [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [guide](open-publishing-space/README.md)
-- **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [guide](open-course-hub/README.md)
-- **Open MultiCourse Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
+- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) · [guide](open-course-hub/README.md)
+- **Open Course Hub 2 and Open MultiCourse Hub 2** – the earlier course starters, also for Grav 1.7: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
 - **Learn2 with Git Sync** – an open documentation site: [demo](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)
 - **Free plugins** – Mermaid, LaTeX Math, Admin2 Site ReadMe and Git Page Link: [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html)
 - **Converters** – [all converters](https://grav-converters.hibbittsdesign.org/)
@@ -32,7 +32,7 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no web server to set up
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart to Open Publishing Space, for open textbooks and guides
-- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Hub, for open courses
+- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Space, for open courses
 
 Both are built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development.
 

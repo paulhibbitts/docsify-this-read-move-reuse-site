@@ -7,7 +7,7 @@ Links for going further with the projects in the guide, and with Markdown itself
 ## The Projects
 
 - **Open Publishing Space 2** – demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
-- **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
+- **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space)
 - **The converters** – [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) · [Docsify](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
 
 ## Writing in Markdown
@@ -26,7 +26,7 @@ Links for going further with the projects in the guide, and with Markdown itself
 ## Learning More
 
 - [Grav Learn](https://learn.getgrav.org/) – the documentation for Grav, the free CMS both projects are built on
-- [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) – all four free starters, side by side
+- [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) – the free starters, side by side
 - [Leap into Open Publishing](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=leap-into-open-publishing-standalone-guide.md&edit-link=https://github.com/paulhibbitts/published-markdown-files/blob/main/leap-into-open-publishing-standalone-guide.md&edit-link-text=View%20Source%20Markdown%20File&edit-link-emoji=:page_facing_up:&browser-tab-title=Leap%20into%20Open%20Publishing%20Guide&sidebar=true&searchbox=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto#/?id=-additional-resources) – a short guide to open publishing, with more resources
 
 ## Background Reading
@@ -39,7 +39,7 @@ Links for going further with the projects in the guide, and with Markdown itself
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no web server to set up
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart to Open Publishing Space, for open textbooks and guides
-- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Hub, for open courses
+- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Space, for open courses
 
 Both are built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development.
 

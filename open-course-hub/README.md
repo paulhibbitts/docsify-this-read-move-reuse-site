@@ -10,7 +10,7 @@ A DIY Path from Plain Markdown or Your LMS
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 10, 2026</small>
+<small>First Edition, 2026 · Updated Nov 12, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
@@ -20,9 +20,9 @@ Paul Hibbitts
 
 </div>
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short guide introduces Open Course Hub, a free, open-source website starter for open courses organized by modules, and its sibling Open MultiCourse Hub for several courses – plus a free converter that brings in a course from your LMS.
+Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short guide introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://read-move-reuse.hibbittsdesign.org/open-course-hub) is built with Open Course Hub's twin, Open Publishing Space.
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://read-move-reuse.hibbittsdesign.org/open-course-hub) is built with Open Course Space's twin, Open Publishing Space.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
@@ -43,9 +43,9 @@ Plain Markdown keeps open course materials portable, under your control, and eas
 
 <small>Part 2</small>
 
-<h2><a href="#/open-course-hub/open-course-hub">Open Course Hub 2</a></h2>
+<h2><a href="#/open-course-hub/open-course-hub">Open Course Space</a></h2>
 
-An open course site organized by modules, ready to embed in your LMS.
+One course or many in a single site, organized by modules and ready to embed in your LMS.
 
 </div>
 
@@ -53,9 +53,9 @@ An open course site organized by modules, ready to embed in your LMS.
 
 <small>Part 3</small>
 
-<h2><a href="#/open-course-hub/open-multicourse-hub">Open MultiCourse Hub 2</a></h2>
+<h2><a href="#/open-course-hub/open-multicourse-hub">Open Course Hub and MultiCourse Hub</a></h2>
 
-Several courses, each with its own course site, all in a single install.
+The earlier course starters – still available, including for Grav 1.7 – and how their courses move to Open Course Space.
 
 </div>
 

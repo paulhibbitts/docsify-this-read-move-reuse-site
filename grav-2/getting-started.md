@@ -7,8 +7,7 @@
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos, try Admin 2 and try the converters with nothing to install:
 
 - **"I want to share a textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
-- **"I want a web home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
-- **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early release)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/) – free, with your Markdown files on GitHub or another public address; start from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) template, and the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) can turn it into a Grav site later – see the [Docsify for Open Education and Publishing](docsify/README.md) guide
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 

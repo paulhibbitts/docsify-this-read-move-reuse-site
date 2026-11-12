@@ -7,7 +7,7 @@
 Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 
 - **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
-- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a Common Cartridge file, and download its modules, ready for Open Course Hub
+- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a Common Cartridge file, and download its modules, ready for Open Course Space or Open Course Hub
 
 Table: What carries over from a Pressbooks book
 
