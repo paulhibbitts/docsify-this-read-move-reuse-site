@@ -26,7 +26,7 @@ Then set up your own site:
 
 1. **Download** a starter: Open Publishing Space from [getgrav.org](https://getgrav.org/downloads/skeletons), or [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (an early release)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
-3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
+3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – each starter has a sample guide or course to start your own from
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 

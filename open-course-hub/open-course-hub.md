@@ -10,7 +10,7 @@ A free, open-source website starter for **open courses**, organized by modules a
 - A module list beside every module page, with Previous and Next
 - Home page reminders that link to this week's and next week's modules
 - On phones, a module's sections in an "On this page" box
-- A blog shared by all your courses
+- A blog shared by all your courses, or one inside a course
 
 Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` to a page's address.
 
@@ -20,7 +20,7 @@ Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files
 
 ![The Open Course Space demo's Courses page, with a card for each of its three example courses, each with a header image and short description](open-course-space-courses.webp)
 
-*The Courses page, from the Open Course Space demo*
+*The Courses page, from the Open Course Space demo – a new site starts with one example course, with two more ready to turn on*
 
 ![An Open Course Space course home page, with the course's own menu and header image, What's Happening This Week linking to the current module, reminders with due dates, and Canvas LMS links beside them](open-course-space-home.webp)
 
