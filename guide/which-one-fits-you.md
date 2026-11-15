@@ -7,7 +7,7 @@
 All the starters and converters in this guide are **free and open-source**:
 
 - **"I want to share a textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
-- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early release)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) when you're ready for a full site – see [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
 
@@ -24,7 +24,7 @@ Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdow
 
 Then set up your own site:
 
-1. **Download** a starter: Open Publishing Space from [getgrav.org](https://getgrav.org/downloads/skeletons), or [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (an early release)
+1. **Download** a starter: Open Publishing Space from [getgrav.org](https://getgrav.org/downloads/skeletons), or [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (an early preview)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – each starter has a sample guide or course to start your own from
 

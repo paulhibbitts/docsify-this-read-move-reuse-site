@@ -6,7 +6,7 @@
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
 
-- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early release)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) when you're ready for a full site – see [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
@@ -22,7 +22,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 Then set up your own site:
 
-1. **Download** [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (it's an early release, not yet on getgrav.org)
+1. **Download** [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (it's an early preview, not yet on getgrav.org)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Course is ready to start your own from
 

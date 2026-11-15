@@ -16,7 +16,7 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` t
 
 Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most PHP web hosts.
 
-**New:** Open Course Space is an early release, on the same theme as Open Publishing Space – the free successor to Open Course Hub and Open MultiCourse Hub.
+**New:** Open Course Space is an early preview, on the same theme as Open Publishing Space – the free successor to Open Course Hub and Open MultiCourse Hub.
 
 ![The Open Course Space demo's Courses page, with a card for each of its three example courses, each with a header image and short description](open-course-space-courses.webp)
 

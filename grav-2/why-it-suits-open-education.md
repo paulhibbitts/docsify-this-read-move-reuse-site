@@ -6,16 +6,16 @@
 
 **For readers and learners:**
 
-- **Accessible reading:** themes can offer keyboard navigation, light and dark modes and clean printed pages – see the [Accessibility and Privacy](guide/accessibility.md) part of the Open Textbooks, Guides and Courses guide
-- **Privacy:** content stays on a site you control, with no third-party tracking built in
-- **Open licensing:** a license and attribution can be shown on every page, as on this guide
+- **Read anywhere:** the same pages work on phones, embed in an LMS and print cleanly – nothing to export
+- **Accessible by design:** the free starters include keyboard navigation, labelled page regions for screen readers, and light and dark modes – more in [Accessibility and Privacy](guide/accessibility.md)
+- **Privacy:** no third-party tracking built in, on a site you control
+- **Clear licensing:** a licence and attribution on every page, as on this guide
 
 **For authors:**
 
-- **Edit your way:** in the browser with Admin 2, or as files with any editor – and with Git, for a full history of every change and help from others
-- **Content that lasts:** plain Markdown files stay readable in any text editor, long after a platform changes
-- **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages), GitHub and other tools with little rework
-- **Reuse built in:** you (and, with an open licence, anyone) can get the Markdown behind a page, to adapt and share
+- **Edit your way:** in the browser with Admin 2, or as files in any editor – or both
+- **Plain Markdown that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages), GitHub and other tools with little rework
+- **Reuse built in:** you – and, with an open licence, anyone – can get any page's Markdown to adapt and share
 
 Optional: with the free [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) plugin, every change is saved to a GitHub repository with its full history, and co-authors can suggest edits there.
 
@@ -32,8 +32,9 @@ flowchart LR
 
 **For whoever runs the site:**
 
-- **Low cost and upkeep:** no build tools, and a standard PHP web host is enough
-- **Compared with WordPress:** pages are Markdown files rather than database entries and blocks, so there are fewer moving parts to keep updated
+- **Simple hosting:** a standard PHP web host is enough – no database and no build tools
+- **Easy backups and moves:** the whole site is one folder – copy it to back up, or to move to another host
+- **Fewer moving parts:** pages are files rather than database entries, so there's less to keep updated
 
 **How it compares** with other popular tools for open textbooks, guides and courses – WordPress-based book tools such as Pressbooks, and static site tools such as Quarto, Jupyter Book and Jekyll:
 
