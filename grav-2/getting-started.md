@@ -31,7 +31,7 @@ Then set up your own site:
 > [!IMPORTANT]
 > **Good to know:**
 >
-> - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after the site's updates and backups
+> - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after updates and backups: Grav, its plugins and themes update from Admin 2's dashboard, and a backup is a copy of the site's folder
 > - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start (the premium Editor Pro plugin shows formatted text instead)
 > - An open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment
 > - Some Grav 1.7 plugins and themes aren't updated for Grav 2 yet
