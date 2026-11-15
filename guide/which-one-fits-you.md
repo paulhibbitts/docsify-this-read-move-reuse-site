@@ -14,7 +14,7 @@ All the starters and converters in this guide are **free and open-source**:
 Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdown files with any editor or via Git.
 
 
-**Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/guide/which-one-fits-you):
+**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/guide/which-one-fits-you):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides
@@ -24,7 +24,7 @@ Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdow
 
 Then set up your own site:
 
-1. **Download** a starter: Open Publishing Space from [getgrav.org](https://getgrav.org/downloads/skeletons), or [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (an early preview)
+1. **Download** a starter skeleton: Open Publishing Space from [getgrav.org](https://getgrav.org/downloads/skeletons), or [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) from GitHub (an early preview)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – each starter has a sample guide or course to start your own from
 

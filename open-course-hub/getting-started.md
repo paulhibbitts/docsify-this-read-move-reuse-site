@@ -12,7 +12,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
 
 
-**Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-course-hub/getting-started):
+**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-course-hub/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides

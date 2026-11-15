@@ -12,7 +12,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 
 
-**Try it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/grav-2/getting-started):
+**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/grav-2/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through the original version of this guide, like slides
