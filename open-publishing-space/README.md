@@ -82,7 +82,7 @@ Explore the demo and try the converter, with nothing to install – plus the lim
 </div>
 
 > [!NOTE]
-> **Reuse this guide** – it's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.
+> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://read-move-reuse.hibbittsdesign.org/open-publishing-space/llms-full.txt).
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.
 

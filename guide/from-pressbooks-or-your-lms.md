@@ -35,3 +35,5 @@ Examples (raw conversions, with no revisions or fine-tuning): [an openly license
 > **Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions.
 >
 > *Thanks to the authors for making this book open!*
+>
+> **See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/), converted with no revisions.

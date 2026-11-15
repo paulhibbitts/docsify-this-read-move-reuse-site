@@ -30,3 +30,8 @@ Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files
 See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [This page, embedded](https://read-move-reuse.hibbittsdesign.org/open-publishing-space/open-publishing-space?embedded=true)
 
 Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen).
+
+> [!NOTE]
+> **See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) – and the original version of this guide is built with it.
+>
+> **See the original page embedded** – [as it would look in Canvas, Moodle or Brightspace](https://read-move-reuse.hibbittsdesign.org/open-publishing-space/open-publishing-space?embedded=true).

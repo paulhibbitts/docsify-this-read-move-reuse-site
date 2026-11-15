@@ -23,3 +23,6 @@ Free, open-source templates that turn Docsify into a ready-to-run site – hoste
 **Moving from Docsify-This:** a site you started with Docsify-This moves to a Starter Kit as it is – copy your Markdown files into the kit's repository, and they become your own hosted site, with your own address and styling.
 
 **Docsify-This or a Starter Kit?** Comfortable with GitHub, or want your own address and styling? Choose a kit. Not sure yet? Start with Docsify-This, and move to a kit whenever you're ready.
+
+> [!NOTE]
+> **See it embedded** – [a module from the Open Course Kit demo](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/module-01?embedded=true), as it would look in Canvas, Moodle or Brightspace.

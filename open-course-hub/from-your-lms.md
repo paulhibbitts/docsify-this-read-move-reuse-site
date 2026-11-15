@@ -27,3 +27,6 @@ Table: What carries over from an LMS course
 *A module from an LMS course in Open Course Space, converted with no revisions – from Digital Animation (D. Ingram), CC BY-NC*
 
 Example (a raw conversion, with no revisions or fine-tuning): [LMS course content in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
+
+> [!NOTE]
+> **See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/), converted with no revisions.

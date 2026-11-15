@@ -92,7 +92,7 @@ Explore the demos and try the converter, with nothing to install – plus the li
 </div>
 
 > [!NOTE]
-> **Reuse this guide** – it's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy it, adapt it and share it, with credit.
+> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://read-move-reuse.hibbittsdesign.org/open-course-hub/llms-full.txt).
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@cbarbalis">Chris Barbalis</a> on <a href="https://unsplash.com/photos/female-beach-cruiser-bike-leaning-on-yellow-painted-wall-Lpqg7ypu2B4">Unsplash</a>.
 
