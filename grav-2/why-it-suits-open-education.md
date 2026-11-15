@@ -7,7 +7,7 @@
 **For readers and learners:**
 
 - **Read anywhere:** the same pages work on phones, embed in an LMS and print cleanly – nothing to export
-- **Accessible by design:** the free starters include keyboard navigation, labelled page regions for screen readers, and light and dark modes – more in [Accessibility and Privacy](guide/accessibility.md)
+- **Accessibility built in:** the free starters include keyboard navigation, labelled page regions for screen readers, and light and dark modes – more in [Accessibility and Privacy](guide/accessibility.md)
 - **Privacy:** no third-party tracking built in, on a site you control
 - **Clear licensing:** a licence and attribution on every page, as on this guide
 
@@ -45,7 +45,7 @@ flowchart LR
 | Hosting | A PHP web host (PHP 8.3 or newer) | A hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
 | Markdown of every page | Built in | Not built in | The source files themselves |
 | EPUB and formatted PDF | No – pages print cleanly | Yes – a real strength | Yes, especially Quarto |
-| Books and courses from the same content | Yes, with the free starters | Books | Possible, with setup |
+| Books and courses from the same content | Yes – the same Markdown moves between the book and course starters | Books | Possible, with setup |
 
 Pick a WordPress-based book tool such as Pressbooks if you need EPUB or print-ready PDF, or a static site tool if you're comfortable with Git and want free hosting.
 
