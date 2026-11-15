@@ -14,6 +14,7 @@
 **For authors:**
 
 - **Edit your way:** in the browser with Admin 2, or as files in any editor – or both
+- **Co-authors welcome:** invite them to Admin 2, each with their own account and only the access you give them
 - **Plain Markdown that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages), GitHub and other tools with little rework
 - **Reuse built in:** you – and, with an open licence, anyone – can get any page's Markdown to adapt and share
 
@@ -45,9 +46,10 @@ flowchart LR
 | Hosting | A PHP web host (PHP 8.3 or newer) | A hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
 | Markdown of every page | Built in | Not built in | The source files themselves |
 | EPUB and formatted PDF | No – pages print cleanly | Yes – a real strength | Yes, especially Quarto |
+| Running code in pages (notebooks) | No | No | Yes, with Quarto and Jupyter Book |
 | Books and courses from the same content | Yes – the same Markdown moves between the book and course starters | Books | Possible, with setup |
 
-Pick a WordPress-based book tool such as Pressbooks if you need EPUB or print-ready PDF, or a static site tool if you're comfortable with Git and want free hosting.
+Pick Grav 2 for plain Markdown files with no build step, editable in the browser by co-authors who don't use Git; a WordPress-based book tool such as Pressbooks if you need EPUB or print-ready PDF; or a static site tool if you're comfortable with Git and want free hosting.
 
 ![This page on a phone, twice: in light mode and in dark mode, each with a Previous and Next bar at the bottom of the screen](grav-2-phone-light-dark.webp)
 
