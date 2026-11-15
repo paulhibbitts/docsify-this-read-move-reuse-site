@@ -8,7 +8,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 - **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early release)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)
-- **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) when you're ready for a full site – see [a course on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
+- **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) when you're ready for a full site – see [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
 
 
@@ -17,7 +17,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides
 3. **Add** `?embedded=true` to this page's address to see it as it would appear in your LMS
-4. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) and open a module page to see its Markdown
+4. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-open-course-space/admin) and open a module page to see its Markdown
 
 
 Then set up your own site:

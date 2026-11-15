@@ -8,7 +8,7 @@ Links for going further with Docsify, the tools built on it, and Markdown itself
 
 - **Docsify-This** – [try it](https://docsify-this.net/) · [GitHub](https://github.com/hibbitts-design/docsify-this) · templates for a [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) and a [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site)
 - **Docsify Starter Kits** – [overview](https://hibbittsdesign.org/docsify-starter-kits.html) · [Open Course Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) · [Open MultiCourse Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) · [Open Publishing Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
-- **The converters** – [Open Publishing Course Hub](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [Docsify Common Cartridge](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/)
+- **The converters** – [Open Publishing Course Space](https://open-publishing-course-space-converter.hibbittsdesign.org/) · [Docsify Common Cartridge](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/)
 - [Docsify](https://docsify.js.org/) – the free, open-source project they're built on
 
 ## Writing in Markdown

@@ -9,7 +9,7 @@ Links for going further with Open Course Space, and with Markdown itself.
 - **Open Course Space** – [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space)
 - **Open Course Hub 2 and Open MultiCourse Hub 2** – the earlier course starters, also for Grav 1.7: [Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) · [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - **Common Cartridge Converter** – [convert a course](https://common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
-- **Open Publishing Course Hub Converter** – [move a course to or from Docsify](https://open-publishing-course-hub-converter.hibbittsdesign.org/)
+- **Open Publishing Course Space Converter** – [move a course to or from Docsify](https://open-publishing-course-space-converter.hibbittsdesign.org/)
 
 ## Writing in Markdown
 

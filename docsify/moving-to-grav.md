@@ -15,7 +15,7 @@ flowchart LR
   B <-- converter --> C
 ```
 
-- **[Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/)** – moves guides or a course between Docsify and Grav Open Publishing Space or Open Course Hub, in either direction, with the same Markdown
+- **[Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/)** – moves guides or courses between Docsify and Grav Open Publishing Space or Open Course Space, in either direction, with the same Markdown
 - **[Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/)** – turns a Canvas, Moodle or Brightspace course export into Markdown pages for Docsify
 - **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – its Standard Markdown option suits a Docsify site too
 
@@ -23,4 +23,4 @@ flowchart LR
 
 For the Grav side, see [Open Textbooks, Guides and Courses](guide/README.md) or [Grav 2 for Open Education and Publishing](grav-2/README.md).
 
-Example: [a course on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363), converted from the Open Course Hub demo
+Example: [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), converted from the Open Course Space demo
