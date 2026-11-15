@@ -20,9 +20,9 @@ Paul Hibbitts
 
 </div>
 
-Many platforms can publish openly licensed textbooks, guides and courses – but direct access to the content itself, for readers and authors alike, is often not as easy. This short guide introduces [Grav 2](https://getgrav.org/), a free, open-source platform that keeps every page as a plain Markdown file on a site you control – with the Markdown behind any page a click away.
+Many platforms can publish openly licensed textbooks, guides and courses – but direct access to the content itself, for readers and authors alike, is often not as easy. This short guide introduces [Grav 2](https://getgrav.org/), a free, open-source platform that keeps every page as a plain Markdown file on a site you control – editable in the browser, with the Markdown behind any page a click away.
 
-You'll see why it suits open education and publishing, the free starters and converters built on it, and how to explore its demos and Admin 2 with nothing to install. This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://read-move-reuse.hibbittsdesign.org/grav-2) is one of five guides on a Grav 2 site built with Open Publishing Space.
+You'll see why it suits open education and publishing, the free starter skeletons and converters built on it, and how to explore its demos and Admin 2 with nothing to install. This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://read-move-reuse.hibbittsdesign.org/grav-2) is one of five guides on a Grav 2 site built with Open Publishing Space.
 
 <div class="card-list card-list-sections">
 
