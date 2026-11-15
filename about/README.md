@@ -10,7 +10,7 @@ This site holds five short guides to free, open-source DIY tools for open textbo
 
 This version is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files. [The original site](https://read-move-reuse.hibbittsdesign.org) is built with Open Publishing Space.
 
-**Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Read, Move, Reuse:** pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 **Your content lasts:** the starters, themes and converters are free and open source – and because your content is plain Markdown, it keeps working with other tools too.
 

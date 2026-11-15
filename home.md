@@ -4,7 +4,7 @@ Free, open-source DIY tools for open textbooks, guides and courses
 
 Five short guides from the same source – not sure which? Start with the overview, [Open Textbooks, Guides and Courses](guide/README.md).
 
-**Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Read, Move, Reuse:** pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 Each guide has its own search box, on its reading pages.
 
