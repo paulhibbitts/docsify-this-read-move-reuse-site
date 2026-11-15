@@ -36,12 +36,12 @@ flowchart LR
 - **Easy backups and moves:** the whole site is one folder – copy it to back up, or to move to another host
 - **Fewer moving parts:** pages are files rather than database entries, so there's less to keep updated
 
-**How it compares** with other popular tools for open textbooks, guides and courses – WordPress-based book tools such as Pressbooks, and static site tools such as Quarto, Jupyter Book and Jekyll:
+**How it compares** with other popular tools for open textbooks, guides and courses – WordPress-based book tools such as Pressbooks, and static site tools such as Quarto, Jupyter Book, Jekyll and Hugo:
 
 | | Grav 2 | WordPress-based (such as Pressbooks) | Static site tools |
 |---|---|---|---|
 | Content stored as | Markdown files | A database | Markdown files |
-| Editing | In the browser (Admin 2), or any editor | In the browser | Edit files, then run a build |
+| Editing | In the browser (Admin 2), or any editor | In the browser | Edit files (or add a separate editing tool); a build publishes them |
 | Hosting | A PHP web host (PHP 8.3 or newer) | A hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
 | Markdown of every page | Built in | Not built in | The source files themselves |
 | EPUB and formatted PDF | No – pages print cleanly | Yes – a real strength | Yes, especially Quarto |
