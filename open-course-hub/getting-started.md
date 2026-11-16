@@ -9,7 +9,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) when you're ready for a full site – see [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), or the [Docsify for Open Education and Publishing](docsify/README.md) guide
-- **"I want to share a textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
+- **"I want to share a textbook or guide"** → its twin, Open Publishing Space – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
 
 
 **Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-course-hub/getting-started):

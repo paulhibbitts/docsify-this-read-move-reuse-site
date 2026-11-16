@@ -60,7 +60,7 @@ What Grav 2 offers readers and learners, authors, and whoever runs the site – 
 
 <small>Part 4</small>
 
-<h2><a href="#/grav-2/open-publishing-space">Open Publishing Space 2</a></h2>
+<h2><a href="#/grav-2/open-publishing-space">Open Publishing Space</a></h2>
 
 A free starter for open textbooks and guides – plus converters to bring in what you already have.
 

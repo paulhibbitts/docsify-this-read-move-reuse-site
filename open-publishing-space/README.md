@@ -43,7 +43,7 @@ Plain Markdown keeps open content portable, under your control, and easy for any
 
 <small>Part 2</small>
 
-<h2><a href="#/open-publishing-space/open-publishing-space">Open Publishing Space 2</a></h2>
+<h2><a href="#/open-publishing-space/open-publishing-space">Open Publishing Space</a></h2>
 
 Open textbooks and guides as websites, with the Markdown behind every page a click away.
 

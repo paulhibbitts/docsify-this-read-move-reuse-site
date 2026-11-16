@@ -1,6 +1,6 @@
 [← Grav 2 for Open Education and Publishing](grav-2/README.md)
 
-# Open Publishing Space 2
+# Open Publishing Space
 
 <small>Part 4 of 6</small>
 

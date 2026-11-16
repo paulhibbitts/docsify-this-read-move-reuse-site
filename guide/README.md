@@ -43,7 +43,7 @@ Pages designed for readers and learners, content authors can move between tools,
 
 <small>Part 2</small>
 
-<h2><a href="#/guide/open-publishing-space">Open Publishing Space 2</a></h2>
+<h2><a href="#/guide/open-publishing-space">Open Publishing Space</a></h2>
 
 Open textbooks and guides as websites, with the Markdown behind every page a click away.
 
