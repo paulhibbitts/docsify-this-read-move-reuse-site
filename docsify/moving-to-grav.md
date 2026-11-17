@@ -19,7 +19,7 @@ flowchart LR
 - **[Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/)** – turns a Canvas, Moodle or Brightspace course export into Markdown pages for Docsify
 - **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – its Standard Markdown option suits a Docsify site too
 
-**A way back:** moving to Grav doesn't lock you in – the converter moves your guides or course back to Docsify whenever you want.
+**A way back:** moving to Grav doesn't lock you in – the converter moves your guides or course back to Docsify whenever you want, for example if you lose access to a web host.
 
 For the Grav side, see [Open Textbooks, Guides and Courses](guide/README.md) or [Grav 2 for Open Education and Publishing](grav-2/README.md).
 

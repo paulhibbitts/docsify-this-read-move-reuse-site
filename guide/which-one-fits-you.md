@@ -33,7 +33,7 @@ Then set up your own site:
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/guide), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide).
 
 > [!IMPORTANT]
-> **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
+> **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 

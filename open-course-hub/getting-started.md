@@ -35,7 +35,7 @@ Then set up your own site:
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-course-hub) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-course-hub), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub).
 
 > [!IMPORTANT]
-> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
+> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) turns your course into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
 

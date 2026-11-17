@@ -32,6 +32,7 @@ Then set up your own site:
 > **Good to know:**
 >
 > - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after updates and backups: Grav, its plugins and themes update from Admin 2's dashboard, and a backup is a copy of the site's folder
+> - If you ever lose access to a web host, the free [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed
 > - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start (the premium Editor Pro plugin shows formatted text instead)
 > - An open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment
 > - Some Grav 1.7 plugins and themes aren't updated for Grav 2 yet
