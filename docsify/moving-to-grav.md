@@ -23,4 +23,4 @@ flowchart LR
 
 For the Grav side, see [Open Textbooks, Guides and Courses](guide/README.md) or [Grav 2 for Open Education and Publishing](grav-2/README.md).
 
-Example: [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), converted from the Open Course Space demo
+Examples: [courses on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space), converted from the Open Course Space demo · [a Docsify Open Courses Starter Kit](https://demo.hibbittsdesign.org/variants/docsify-open-courses-starter-kit/), converted to Grav
