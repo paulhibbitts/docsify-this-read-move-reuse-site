@@ -8,7 +8,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 - **"I want to share a textbook or guide"** → Open Publishing Space: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
 - **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
-- **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/) – free, with your Markdown files on GitHub or another public address; start from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) template, and the [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) can turn it into a Grav site later – see the [Docsify for Open Education and Publishing](docsify/README.md) guide
+- **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/) – free, with your Markdown files on GitHub or another public address; start from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) template, and the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org/) can turn it into a Grav site later – see the [Docsify for Open Education and Publishing](docsify/README.md) guide
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 
 
@@ -32,7 +32,7 @@ Then set up your own site:
 > **Good to know:**
 >
 > - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after updates and backups: Grav, its plugins and themes update from Admin 2's dashboard, and a backup is a copy of the site's folder
-> - If you ever lose access to a web host, the free [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed
+> - If you ever lose access to a web host, the free [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed
 > - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start (the premium Editor Pro plugin shows formatted text instead)
 > - An open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment
 > - Some Grav 1.7 plugins and themes aren't updated for Grav 2 yet
