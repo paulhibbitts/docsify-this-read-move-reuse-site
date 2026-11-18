@@ -12,7 +12,9 @@ This version is published with [Docsify-This](https://docsify-this.net), straigh
 
 **Read, Move, Reuse:** pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
-**Your content lasts:** the starters, themes and converters are free and open source – and because your content is plain Markdown, it keeps working with other tools too.
+**The tools behind it:** converters bring your existing books and courses in, and the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org/) moves your guides and courses between Docsify and Grav, both ways – the same Markdown, read, moved and reused.
+
+**Your content lasts:** the starters, themes, converters and bridge are free and open source – and because your content is plain Markdown, it keeps working with other tools too.
 
 All five guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
