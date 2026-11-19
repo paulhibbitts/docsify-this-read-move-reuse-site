@@ -9,7 +9,7 @@ Everything in this guide is **free and open-source**:
 - **"I want to share a Markdown file or folder now"** → [Docsify-This](https://docsify-this.net/)
 - **"I want my own site on GitHub Pages"** → a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html)
 - **"I want browser editing and a full website"** → Grav – see [Open Textbooks, Guides and Courses](guide/README.md)
-- **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Docsify Common Cartridge](https://docsify-common-cartridge-converter.hibbittsdesign.org/) Converter
+- **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 
 
 **Try it in 5 minutes:**

@@ -16,7 +16,6 @@ flowchart LR
 ```
 
 - **[Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org/)** – moves guides or courses between Docsify and Grav Open Publishing Space or Open Course Space, in either direction, with the same Markdown
-- **[Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/)** – turns a Canvas, Moodle or Brightspace course export into Markdown pages for Docsify
 - **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – its Standard Markdown option suits a Docsify site too
 
 **A way back:** moving to Grav doesn't lock you in – the bridge moves your guides or course back to Docsify whenever you want, for example if you lose access to a web host.
