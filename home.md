@@ -14,7 +14,7 @@ Each guide has its own search box, on its reading pages.
 
 [![A Little Free Library on wheels, with books behind its glass doors](guide/chris-robert-P189JexXzQY-unsplash.jpg ":no-zoom")](guide/README.md)
 
-<h2><a href="#/guide/README">Open Textbooks, Guides and Courses</a></h2>
+## [Open Textbooks, Guides and Courses](guide/README.md) <!-- {docsify-ignore} -->
 
 A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
@@ -26,7 +26,7 @@ A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
 [![An open book floating against a blue sky, its pages fanned out](open-publishing-space/open-book-sky.jpg ":no-zoom")](open-publishing-space/README.md)
 
-<h2><a href="#/open-publishing-space/README">Open Textbooks and Guides</a></h2>
+## [Open Textbooks and Guides](open-publishing-space/README.md) <!-- {docsify-ignore} -->
 
 A DIY Path from Plain Markdown or Pressbooks
 
@@ -38,7 +38,7 @@ A DIY Path from Plain Markdown or Pressbooks
 
 [![A bicycle with a front basket leaning against a yellow wall](open-course-hub/bicycle-yellow-wall.jpg ":no-zoom")](open-course-hub/README.md)
 
-<h2><a href="#/open-course-hub/README">Open Courses</a></h2>
+## [Open Courses](open-course-hub/README.md) <!-- {docsify-ignore} -->
 
 A DIY Path from Plain Markdown or Your LMS
 
@@ -50,7 +50,7 @@ A DIY Path from Plain Markdown or Your LMS
 
 [![A potted plant on a windowsill between open green shutters, in a bright purple wall](grav-2/plant-purple-window.jpg ":no-zoom")](grav-2/README.md)
 
-<h2><a href="#/grav-2/README">Grav 2 for Open Education and Publishing</a></h2>
+## [Grav 2 for Open Education and Publishing](grav-2/README.md) <!-- {docsify-ignore} -->
 
 A DIY Platform You Own, in Plain Markdown
 
@@ -62,7 +62,7 @@ A DIY Platform You Own, in Plain Markdown
 
 [![A light green vintage typewriter with a blank sheet of paper, on a cream background](docsify/typewriter-light-green-wide.jpg ":no-zoom")](docsify/README.md)
 
-<h2><a href="#/docsify/README">Docsify for Open Education and Publishing</a></h2>
+## [Docsify for Open Education and Publishing](docsify/README.md) <!-- {docsify-ignore} -->
 
 Markdown on the Web, with No Web Server Needed
 
