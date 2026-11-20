@@ -6,7 +6,7 @@
 
 Already have a course in your LMS? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
-- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Space
+- **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Space
 
 Table: What carries over from an LMS course
 

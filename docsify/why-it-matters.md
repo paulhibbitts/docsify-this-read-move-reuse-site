@@ -25,7 +25,7 @@
 **Read, Move, Reuse:**
 
 - **Read:** pages work on any device and embed in an LMS
-- **Move:** the same files go to a full Grav site, and back again, with a free [bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org/)
+- **Move:** the same files go to a full Grav site, and back again, with a free [bridge](https://grav-docsify-bridge.hibbittsdesign.org/)
 - **Reuse:** the Markdown files are the source – yours to move and adapt, and anyone's to reuse if you add an open licence
 
 **Honestly:** this is the lightest way to publish, not the most capable – there's no admin panel and no built-in editor. Part 4 covers when a full Grav site is worth it.

@@ -16,7 +16,7 @@ A free, open-source website starter for sharing **web-first open textbooks and g
 
 Already have a book in Pressbooks? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
-- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
+- **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
 
 Example (a raw conversion, with no revisions or fine-tuning): [the original book in Pressbooks](https://ecampusontario.pressbooks.pub/universaldesign2/) · [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/)
 

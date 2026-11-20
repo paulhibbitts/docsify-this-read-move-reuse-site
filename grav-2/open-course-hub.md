@@ -20,7 +20,7 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (
 
 Already have a course in your LMS? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
-- **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Space
+- **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Space
 
 Example (a raw conversion, with no revisions or fine-tuning): [LMS course content in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
 

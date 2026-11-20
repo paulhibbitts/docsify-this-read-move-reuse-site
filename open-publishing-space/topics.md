@@ -52,7 +52,7 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [OER attribution](open-publishing-space/open-publishing-space.md)
-- [Open Publishing Course Space Bridge](open-publishing-space/from-pressbooks.md)
+- [Grav Docsify Bridge](open-publishing-space/from-pressbooks.md)
 - [Open Publishing Space](open-publishing-space/open-publishing-space.md)
 
 ## P

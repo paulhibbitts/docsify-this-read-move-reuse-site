@@ -15,8 +15,8 @@ flowchart LR
   B <-- bridge --> C
 ```
 
-- **[Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org/)** – moves guides or courses between Docsify and Grav Open Publishing Space or Open Course Space, in either direction, with the same Markdown
-- **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – its Standard Markdown option suits a Docsify site too
+- **[Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/)** – moves guides or courses between Docsify and Grav Open Publishing Space or Open Course Space, in either direction, with the same Markdown
+- **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – its Standard Markdown option suits a Docsify site too
 
 **A way back:** moving to Grav doesn't lock you in – the bridge moves your guides or course back to Docsify whenever you want, for example if you lose access to a web host.
 
