@@ -10,7 +10,7 @@ A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 12, 2026</small>
+<small>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
@@ -21,6 +21,8 @@ Paul Hibbitts
 </div>
 
 Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
+
+In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
 
 This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.
 

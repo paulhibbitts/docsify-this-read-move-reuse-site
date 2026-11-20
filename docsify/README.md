@@ -10,7 +10,7 @@ Markdown on the Web, with No Web Server Needed
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 9, 2026</small>
+<small>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 

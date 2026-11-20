@@ -10,7 +10,7 @@ A DIY Path from Plain Markdown or Pressbooks
 
 Paul Hibbitts
 
-<small>First Edition, 2026 · Updated Nov 10, 2026</small>
+<small>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
@@ -20,7 +20,11 @@ Paul Hibbitts
 
 </div>
 
-Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform, which can make them more challenging to adapt or self-host elsewhere – even for their own authors. This short guide introduces Open Publishing Space, a free, open-source website starter for sharing web-first open textbooks and guides alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
+Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform – which can make them harder to adapt or self-host elsewhere, even for their own authors.
+
+This short guide introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
+
+In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
 
 This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) is built with Open Publishing Space.
 

@@ -18,7 +18,7 @@ Each guide has its own search box, on its reading pages.
 
 A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 12, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 </div>
 
@@ -30,7 +30,7 @@ A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
 A DIY Path from Plain Markdown or Pressbooks
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 10, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 </div>
 
@@ -42,7 +42,7 @@ A DIY Path from Plain Markdown or Pressbooks
 
 A DIY Path from Plain Markdown or Your LMS
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 12, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 </div>
 
@@ -54,7 +54,7 @@ A DIY Path from Plain Markdown or Your LMS
 
 A DIY Platform You Own, in Plain Markdown
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 12, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 </div>
 
@@ -66,7 +66,7 @@ A DIY Platform You Own, in Plain Markdown
 
 Markdown on the Web, with No Web Server Needed
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 9, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
 
 </div>
 
@@ -82,9 +82,9 @@ Markdown on the Web, with No Web Server Needed
 
 ## A working example
 
-These guides show Markdown portability at work: the same files also run with each of my other open-source tools – [Open Publishing Space – Quark 2](https://share-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/) · [Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/) · [Helios Open Reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/)
+These guides show Markdown portability at work: the same files also run with my other open-source tools – [Open Publishing Space – Quark 2](https://share-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/) · [Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/) · [Helios Open Reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/)
 
-Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
+Open Textbooks and Guides was prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
