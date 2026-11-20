@@ -57,7 +57,7 @@ Pick Grav 2 for plain Markdown files with no build step, editable in the browser
 
 Try it on [the original site](https://share-move-reuse.hibbittsdesign.org/grav-2/why-it-suits-open-education): press → for the next page, **/** to search, switch to dark mode (top right), or open print preview.
 
-**See it moved:** this site's [Open Textbooks, Guides and Courses](guide/README.md) guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/guide), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide).
+**See it moved:** this site's [Open Textbooks, Guides and Courses](guide/README.md) guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://one.on-rev.com/grav/share-move-reuse/share-move-reuse-ops-quark/guide), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/guide), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/share-move-reuse/share-move-reuse-hor/guide) and a [course hub](https://one.on-rev.com/grav/share-move-reuse/share-move-reuse-hch/guide).
 
 > [!TIP]
 > **A domain of one's own:** because a Grav 2 site is just a folder of files, it's a good fit for personal or institutional web hosting – your content isn't tied to a single platform or host.

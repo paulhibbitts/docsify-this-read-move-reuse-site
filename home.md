@@ -82,7 +82,7 @@ Markdown on the Web, with No Web Server Needed
 
 ## A working example
 
-These guides show Markdown portability at work: the same files also run with each of my other open-source tools – [Open Publishing Space – Quark 2](https://share-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ops-quark/) · [MultiCourse Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-mch/) · [Open Course Space](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/) · [Helios Open Reader](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hch/)
+These guides show Markdown portability at work: the same files also run with each of my other open-source tools – [Open Publishing Space – Quark 2](https://share-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/) · [MultiCourse Hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-mch/) · [Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/) · [Helios Open Reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/)
 
 Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026. · [About This Site](about/README.md)
 
