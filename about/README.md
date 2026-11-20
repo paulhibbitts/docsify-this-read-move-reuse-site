@@ -10,7 +10,7 @@ This site holds five short guides to free, open-source DIY tools for open textbo
 
 This version is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files. [The original site](https://share-move-reuse.hibbittsdesign.org) is built with Open Publishing Space.
 
-**Share, Move, Reuse:** share pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Share, Move, Reuse:** share pages designed for all kinds of readers · your content moves wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 **The tools behind it:** converters bring your existing books and courses in, and the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) moves your guides and courses between Docsify and Grav, both ways – the same Markdown, read, moved and reused.
 
