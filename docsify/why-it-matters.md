@@ -30,7 +30,7 @@
 
 **Honestly:** this is the lightest way to publish, not the most capable – there's no admin panel and no built-in editor. Part 4 covers when a full Grav site is worth it.
 
-**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
+**About the author:** I'm Paul Hibbitts – I design open-source publishing tools for open educators and publishers, drawing on over 25 years of interaction design and decades of teaching user interface design at SFU and UBC.
 
 > [!NOTE]
 > **Try it now** – paste the address of any public Markdown file into [Docsify-This](https://docsify-this.net/) and see it as a web page.

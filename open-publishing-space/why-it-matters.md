@@ -26,4 +26,4 @@ Best of all for reuse, you (and, with an open licence, anyone) can get the Markd
 
 **One guide, many uses:** read it at your own pace, present the original version like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use it many ways.
 
-**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
+**About the author:** I'm Paul Hibbitts – I design open-source publishing tools for open educators and publishers, drawing on over 25 years of interaction design and decades of teaching user interface design at SFU and UBC.

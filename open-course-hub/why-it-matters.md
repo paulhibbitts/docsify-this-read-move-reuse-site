@@ -26,4 +26,4 @@ Best of all for reuse, you (and, with an open licence, anyone) can get the Markd
 
 Your LMS still has its place – for grades, quizzes and enrolment. An open course site works alongside it, and its pages embed right inside it.
 
-**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
+**About the author:** I'm Paul Hibbitts – I design open-source publishing tools for open educators and publishers, drawing on over 25 years of interaction design and decades of teaching user interface design at SFU and UBC.
