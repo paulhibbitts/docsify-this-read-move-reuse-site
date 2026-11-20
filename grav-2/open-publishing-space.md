@@ -18,9 +18,9 @@ Already have a book in Pressbooks? Start from it, with a free converter (in beta
 
 - **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
 
-Example (a raw conversion, with no revisions or fine-tuning): [the original book in Pressbooks](https://ecampusontario.pressbooks.pub/universaldesign2/) · [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/)
+Example (a raw conversion, with no revisions or fine-tuning): [the original book in Pressbooks](https://ecampusontario.pressbooks.pub/universaldesign2/) · [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/)
 
-See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/)
+See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/)
 
 Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen).
 

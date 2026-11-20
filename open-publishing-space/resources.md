@@ -6,7 +6,7 @@ Links for going further with Open Publishing Space, and with Markdown itself.
 
 ## The Project
 
-- **Open Publishing Space** – demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
+- **Open Publishing Space** – demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - **Pressbooks Converter** – [convert a book](https://grav-pressbooks-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
 - **Grav Docsify Bridge** – [move guides to or from Docsify](https://grav-docsify-bridge.hibbittsdesign.org/)
 

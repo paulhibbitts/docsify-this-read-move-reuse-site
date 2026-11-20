@@ -28,7 +28,7 @@ Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files
 
 *A page of this guide on a phone: the header slides away as you read, and Previous/Next stay at the bottom*
 
-See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [This page, embedded](https://share-move-reuse.hibbittsdesign.org/open-publishing-space/open-publishing-space?embedded=true)
+See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/) · [This page, embedded](https://share-move-reuse.hibbittsdesign.org/open-publishing-space/open-publishing-space?embedded=true)
 
 Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen).
 
