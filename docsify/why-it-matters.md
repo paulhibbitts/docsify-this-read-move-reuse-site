@@ -22,9 +22,9 @@
 
 **How Docsify helps:** your pages stay as Markdown files, hosted anywhere public such as GitHub or Codeberg. Docsify turns them into web pages in the reader's browser – there's no web server to set up, nothing to compile and no software to keep updated. The files still need a home, but a free GitHub repository is enough.
 
-**Read, Move, Reuse:**
+**Share, Move, Reuse:**
 
-- **Read:** pages work on any device and embed in an LMS
+- **Share:** pages work on any device and embed in an LMS
 - **Move:** the same files go to a full Grav site, and back again, with a free [bridge](https://grav-docsify-bridge.hibbittsdesign.org/)
 - **Reuse:** the Markdown files are the source – yours to move and adapt, and anyone's to reuse if you add an open licence
 

@@ -7,7 +7,7 @@
 > [!TIP]
 > **Learning Objectives**
 >
-> - **Read:** see how both starters are designed for readers and learners
+> - **Share:** see how both starters share pages designed for readers and learners
 > - **Move:** take content between tools, and bring it in from Pressbooks or an LMS
 > - **Reuse:** get any page's Markdown, for your own purposes
 

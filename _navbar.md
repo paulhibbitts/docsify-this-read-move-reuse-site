@@ -1,2 +1,2 @@
-- [Read, Move, Reuse](home.md ":class=site-title")
+- [Share, Move, Reuse](home.md ":class=site-title")
 - [About](about/README.md)
