@@ -6,7 +6,7 @@ View it as a website: https://docsify-this.net/?basePath=https://raw.githubuserc
 
 Within a guide, the sidebar lists its parts and Previous/Next buttons follow that order; the Guides and About pages have no sidebar. Each guide's Topics and Resources are in the navbar, outside the reading order.
 
-The original guides are built with Grav Open Publishing Space at https://read-move-reuse.hibbittsdesign.org – this version uses the same content, converted to plain Markdown pages:
+The original guides are built with Grav Open Publishing Space at https://share-move-reuse.hibbittsdesign.org – this version uses the same content, converted to plain Markdown pages:
 
 - `home.md` – the Guides page, with a card for each guide
 - `guide/`, `open-publishing-space/`, `open-course-hub/` – one folder per guide: `README.md` (its home page), a page per part, `topics.md`, `resources.md`, `_sidebar.md` and `_navbar.md`

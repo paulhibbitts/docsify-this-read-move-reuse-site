@@ -14,7 +14,7 @@ All the starters and converters in this guide are **free and open-source**:
 Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdown files with any editor or via Git.
 
 
-**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/guide/which-one-fits-you):
+**Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/guide/which-one-fits-you):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides
@@ -30,14 +30,14 @@ Then set up your own site:
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
-**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/guide), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide).
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/guide), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide).
 
 > [!IMPORTANT]
 > **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [read-move-reuse.hibbittsdesign.org/guide](https://read-move-reuse.hibbittsdesign.org/guide) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/guide](https://share-move-reuse.hibbittsdesign.org/guide) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
 

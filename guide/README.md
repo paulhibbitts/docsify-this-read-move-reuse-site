@@ -22,7 +22,7 @@ Paul Hibbitts
 
 Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://read-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
@@ -102,7 +102,7 @@ Terms used in this guide, from CC BY 4.0 to shortcodes.
 </div>
 
 > [!NOTE]
-> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://read-move-reuse.hibbittsdesign.org/guide/llms-full.txt).
+> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/guide/llms-full.txt).
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@chris_robert">chris robert</a> on <a href="https://unsplash.com/photos/P189JexXzQY">Unsplash</a>.
 

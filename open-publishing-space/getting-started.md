@@ -12,7 +12,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I teach a course"** → its twin, Open Course Space – see the [Open Courses](open-course-hub/README.md) guide
 
 
-**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-publishing-space/getting-started):
+**Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/open-publishing-space/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides
@@ -32,13 +32,13 @@ Then set up your own site:
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
-**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-publishing-space) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-publishing-space), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-publishing-space), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-publishing-space) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-publishing-space).
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-publishing-space), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-publishing-space), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-publishing-space) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-publishing-space).
 
 > [!IMPORTANT]
 > **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your guides into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed book used as an example, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [read-move-reuse.hibbittsdesign.org/open-publishing-space](https://read-move-reuse.hibbittsdesign.org/open-publishing-space) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/open-publishing-space](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)

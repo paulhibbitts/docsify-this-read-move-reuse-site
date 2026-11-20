@@ -22,7 +22,7 @@ Paul Hibbitts
 
 Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform, which can make them more challenging to adapt or self-host elsewhere – even for their own authors. This short guide introduces Open Publishing Space, a free, open-source website starter for sharing web-first open textbooks and guides alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
 
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://read-move-reuse.hibbittsdesign.org/open-publishing-space) is built with Open Publishing Space.
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) is built with Open Publishing Space.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
@@ -82,7 +82,7 @@ Explore the demo and try the converter, with nothing to install – plus the lim
 </div>
 
 > [!NOTE]
-> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://read-move-reuse.hibbittsdesign.org/open-publishing-space/llms-full.txt).
+> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/open-publishing-space/llms-full.txt).
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.
 

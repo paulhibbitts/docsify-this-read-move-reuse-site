@@ -12,7 +12,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
 
 
-**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/open-course-hub/getting-started):
+**Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/open-course-hub/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides
@@ -32,13 +32,13 @@ Then set up your own site:
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
-**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-course-hub) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-course-hub), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub).
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-course-hub) and [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub), as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-course-hub), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub).
 
 > [!IMPORTANT]
 > **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your course into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [read-move-reuse.hibbittsdesign.org/open-course-hub](https://read-move-reuse.hibbittsdesign.org/open-course-hub) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/open-course-hub](https://share-move-reuse.hibbittsdesign.org/open-course-hub) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)

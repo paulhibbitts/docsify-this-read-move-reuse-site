@@ -8,7 +8,7 @@ This site holds five short guides to free, open-source DIY tools for open textbo
 - **[Grav 2 for Open Education and Publishing](grav-2/README.md)** – Grav 2 itself, and the free starter skeletons, plugins and converters built on it
 - **[Docsify for Open Education and Publishing](docsify/README.md)** – Docsify-This and the Docsify Starter Kits, for Markdown on the web with no web server to set up, plus a path to Grav
 
-This version is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files. [The original site](https://read-move-reuse.hibbittsdesign.org) is built with Open Publishing Space.
+This version is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files. [The original site](https://share-move-reuse.hibbittsdesign.org) is built with Open Publishing Space.
 
 **Share, Move, Reuse:** share pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 

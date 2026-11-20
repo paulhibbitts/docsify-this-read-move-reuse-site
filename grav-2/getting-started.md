@@ -12,7 +12,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://grav-pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://grav-common-cartridge-converter.hibbittsdesign.org/) Converter
 
 
-**Explore it in 5 minutes,** on [the original version of this page](https://read-move-reuse.hibbittsdesign.org/grav-2/getting-started):
+**Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/grav-2/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through the original version of this guide, like slides
@@ -42,6 +42,6 @@ Then set up your own site:
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [read-move-reuse.hibbittsdesign.org/grav-2](https://read-move-reuse.hibbittsdesign.org/grav-2) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/grav-2](https://share-move-reuse.hibbittsdesign.org/grav-2) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)

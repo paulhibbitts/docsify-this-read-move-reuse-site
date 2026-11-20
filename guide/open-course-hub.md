@@ -23,7 +23,7 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (
 
 *The Open Course Space demo on a phone: this week's module on the home page, and a module's sections in an "On this page" box*
 
-[See the demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [A module, embedded](https://demo.hibbittsdesign.org/grav-open-course-space/cpt363-basic/modules/module-04?embedded=true) · [This page, embedded](https://read-move-reuse.hibbittsdesign.org/guide/open-course-hub?embedded=true)
+[See the demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [A module, embedded](https://demo.hibbittsdesign.org/grav-open-course-space/cpt363-basic/modules/module-04?embedded=true) · [This page, embedded](https://share-move-reuse.hibbittsdesign.org/guide/open-course-hub?embedded=true)
 
 Try the Admin 2 panel with a course site: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-course-space/admin) (the sign-in details are on its sign-in screen).
 

@@ -29,7 +29,7 @@ What's new in Grav 2:
 
 *This page, and its Markdown version*
 
-See this page [as Markdown](https://read-move-reuse.hibbittsdesign.org/grav-2/meet-grav-2.md), and compare the diagram with the text that draws it.
+See this page [as Markdown](https://share-move-reuse.hibbittsdesign.org/grav-2/meet-grav-2.md), and compare the diagram with the text that draws it.
 
 What Grav has always had:
 

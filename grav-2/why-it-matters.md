@@ -22,8 +22,8 @@
 
 **A site you own:** Grav 2 keeps every page as a Markdown file in a folder, on a web host you choose. Copy the folder, and you have the whole site.
 
-**One guide, many uses:** read it at your own pace, present the original version like slides (← and → move between pages), embed it in an LMS, print it, or get its Markdown, page by page or as [one file for the whole guide](https://read-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt) – all from the same pages. Write once, use it many ways.
+**One guide, many uses:** read it at your own pace, present the original version like slides (← and → move between pages), embed it in an LMS, print it, or get its Markdown, page by page or as [one file for the whole guide](https://share-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt) – all from the same pages. Write once, use it many ways.
 
 **About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
 
-See this page: [as Markdown](https://read-move-reuse.hibbittsdesign.org/grav-2/why-it-matters.md) · [embedded, as in an LMS](https://read-move-reuse.hibbittsdesign.org/grav-2/why-it-matters?embedded=true)
+See this page: [as Markdown](https://share-move-reuse.hibbittsdesign.org/grav-2/why-it-matters.md) · [embedded, as in an LMS](https://share-move-reuse.hibbittsdesign.org/grav-2/why-it-matters?embedded=true)
