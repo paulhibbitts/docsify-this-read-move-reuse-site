@@ -4,7 +4,7 @@
 
 Every topic in the guide, from A to Z.
 
-[A](#a)|B|[C](#c)|[D](#d)|[E](#e)|[F](#f)|G|[H](#h)|I|J|[K](#k)|[L](#l)|[M](#m)|N|[O](#o)|[P](#p)|Q|R|[S](#s)|[T](#t)|U|V|W|X|Y|Z
+[A](#a)|B|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|I|J|[K](#k)|[L](#l)|[M](#m)|N|[O](#o)|[P](#p)|Q|R|[S](#s)|[T](#t)|U|V|W|X|Y|Z
 
 ## A
 
@@ -31,6 +31,10 @@ Every topic in the guide, from A to Z.
 
 - [Full text of a guide](open-course-hub/getting-started.md)
 
+## G
+
+- [Grav Docsify Bridge](open-course-hub/from-your-lms.md)
+
 ## H
 
 - [Home page reminders](open-course-hub/open-course-hub.md)
@@ -56,7 +60,6 @@ Every topic in the guide, from A to Z.
 - [Open Course Hub 2](open-course-hub/open-multicourse-hub.md)
 - [Open Course Space](open-course-hub/open-course-hub.md)
 - [Open MultiCourse Hub 2](open-course-hub/open-multicourse-hub.md)
-- [Grav Docsify Bridge](open-course-hub/from-your-lms.md)
 
 ## P
 

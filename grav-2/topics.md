@@ -37,9 +37,10 @@ Every topic in the guide, from A to Z.
 ## G
 
 - [Git](grav-2/why-it-suits-open-education.md)
+- [Git Page Link plugin](grav-2/resources.md)
 - [Git Sync](grav-2/why-it-suits-open-education.md)
 - [GitHub repository for the original site](grav-2/why-it-suits-open-education.md)
-- [Git Page Link plugin](grav-2/resources.md)
+- [Grav Docsify Bridge](grav-2/getting-started.md)
 
 ## H
 
@@ -62,7 +63,6 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [Open Course Space](grav-2/open-course-hub.md)
-- [Grav Docsify Bridge](grav-2/getting-started.md)
 - [Open Publishing Space](grav-2/open-publishing-space.md)
 
 ## P

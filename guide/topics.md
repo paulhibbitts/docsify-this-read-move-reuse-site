@@ -4,7 +4,7 @@
 
 Every topic in the guide, from A to Z.
 
-[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|G|[H](#h)|I|J|[K](#k)|[L](#l)|[M](#m)|N|[O](#o)|[P](#p)|Q|[R](#r)|[S](#s)|[T](#t)|U|V|W|X|Y|Z
+[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|I|J|[K](#k)|[L](#l)|[M](#m)|N|[O](#o)|[P](#p)|Q|[R](#r)|[S](#s)|[T](#t)|U|V|W|X|Y|Z
 
 ## A
 
@@ -36,6 +36,10 @@ Every topic in the guide, from A to Z.
 
 - [Full text of a guide](guide/which-one-fits-you.md)
 
+## G
+
+- [Grav Docsify Bridge](guide/from-pressbooks-or-your-lms.md)
+
 ## H
 
 - [Hosting (PHP, no database)](guide/which-one-fits-you.md)
@@ -59,7 +63,6 @@ Every topic in the guide, from A to Z.
 
 - [OER attribution](guide/open-publishing-space.md)
 - [Open Course Space](guide/open-course-hub.md)
-- [Grav Docsify Bridge](guide/from-pressbooks-or-your-lms.md)
 - [Open Publishing Space](guide/open-publishing-space.md)
 
 ## P
