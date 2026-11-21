@@ -41,4 +41,4 @@ With thanks to the authors of the openly licensed course used as an example, for
 
 **Share this guide:** [share-move-reuse.hibbittsdesign.org/open-course-hub](https://share-move-reuse.hibbittsdesign.org/open-course-hub) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
 
-Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
+Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)

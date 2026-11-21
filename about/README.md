@@ -18,7 +18,7 @@ This version is published with [Docsify-This](https://docsify-this.net), straigh
 
 All five guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
-Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
+Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
