@@ -14,7 +14,7 @@ A free, open-source website starter for **open textbooks and guides**, with a bl
 
 ```mermaid
 flowchart LR
-  A[Read] --> B[Move] --> C[Reuse]
+  A[Share] --> B[Move] --> C[Reuse]
 ```
 
 ![An Open Publishing Space guide home page, with its cover, Start Reading button, search box and a card for each section](open-publishing-space-guide.jpg)
