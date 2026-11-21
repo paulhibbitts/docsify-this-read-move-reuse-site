@@ -4,9 +4,6 @@
 
 Terms used in this guide.
 
-**Grav**<br>
-A free, open-source website system that keeps every page as a Markdown file, with no database. Open Publishing Space is built on it.
-
 **Markdown**<br>
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item` – supported almost everywhere, from GitHub to note-taking apps.
 

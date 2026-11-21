@@ -27,7 +27,7 @@ In three words: **share** pages designed for all kinds of readers, **move** your
 This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.
 
 > [!TIP]
-> **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
+> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
 <div class="card-list card-list-sections">
 
